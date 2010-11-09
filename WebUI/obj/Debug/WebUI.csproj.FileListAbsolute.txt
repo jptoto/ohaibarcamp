@@ -1,6 +1,0 @@
-C:\Users\jtoto\projects\ohaibarcamp\WebUI\bin\WebUI.dll
-C:\Users\jtoto\projects\ohaibarcamp\WebUI\bin\WebUI.pdb
-C:\Users\jtoto\projects\ohaibarcamp\WebUI\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\jtoto\projects\ohaibarcamp\WebUI\obj\Debug\WebUI.dll
-C:\Users\jtoto\projects\ohaibarcamp\WebUI\obj\Debug\WebUI.pdb
-C:\Users\jtoto\projects\ohaibarcamp\WebUI\bin\Norm.dll
