@@ -1,0 +1,114 @@
+﻿<%@ Master Language="C#" Inherits="System.Web.Mvc.ViewMasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <title><asp:ContentPlaceHolder ID="TitleContent" runat="server" /></title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="description" content="November 13th, 2010  |  University of the Arts" />
+	<meta name="robots" content="index,follow" />
+    <link rel="stylesheet" type="text/css" href="/Content/css/style.css" />
+</head>
+<body class="wordpress y2010 m11 d09 h15 home blog not-singular windows firefox ff3">
+    <div id="background"><img id="bgImage" src="/Content/images/bcp2010bg.jpg" width="100%" height="100%" alt=""/></div>
+        <div id="wrapper" class="hfeed">
+            <div id="header">
+        	    <div id="branding">
+			        <a href="/"><img src="/Content/images/barcampphilly3.png" alt="BarCamp Philly"></a>
+				</div><!--  #branding -->
+            </div><!-- #header-->
+            <div id="main">
+                <div id="container">
+		            <div id="content">
+                    	<div id="nav-above" class="navigation">
+                  			<div class="nav-previous"><a href="http://www.barcampphilly.org/page/2/" ><span class="meta-nav">&laquo;</span> Older posts</a></div>
+				            <div class="nav-next"></div>
+						</div>	
+		            
+                        <!-- CONTENT -->
+                    
+                        <asp:ContentPlaceHolder ID="MainContent" runat="server">
+
+                        jpjpjp
+                                
+                        </asp:ContentPlaceHolder>
+	                    
+                        <!-- END CONTENT -->
+
+		            </div><!-- #content -->
+	            </div><!-- #container -->
+
+                <div id="secondary" class="aside main-aside">
+		            <ul class="xoxo">
+                        <li id="text-6" class="widgetcontainer widget_text">	
+                            <asp:ContentPlaceHolder ID="SideContent" runat="server">
+
+                                jpjpjp
+                                
+                            </asp:ContentPlaceHolder>
+                        </li>		
+                    </ul>
+	            </div><!-- #secondary .aside -->
+		    </div><!-- #main -->
+    
+            <div id="footer">
+                <div id="subsidiary">
+                    <div id="first" class="aside sub-aside">
+                        <ul class="xoxo">
+                            <li id="text-3" class="widgetcontainer widget_text">			
+                                <div class="textwidget">
+                                    <h1>What is BarCampPhilly?</h1>
+                                    <p>With two successful conferences under our belt, BarCampPhilly is back!  Last year, over 300 people attended this day-long collaborative conference.</p> 
+                                    <p style="padding-left: 25px;"><a href="http://2009.barcampphilly.org/"><img src="http://barcampphilly.org/images/year_badge_2009.png" margin-right: 5px;" height="125px"/></a><a href="http://2008.barcampphilly.org/"><img src="http://barcampphilly.org/images/year_badge_2008.png"  height="125px"/></a></p>
+                                    <p>&nbsp;</p>
+                                    <h1>Follow Us!</h1>
+                                    <p><a href="http://twitter.com/barcampphilly" target="_blank"><img src="http://2009.barcampphilly.org/images/Twitter_48x48.png" alt="twitter" /></a><a href="#" target="_blank"><img src="http://2009.barcampphilly.org/images/FaceBook_48x48.png" alt="facebook" /></a><a href="http://www.flickr.com/groups/barcampphilly/" target="_blank"><img src="http://2009.barcampphilly.org/images/Flickr_48x48.png" alt="flickr" /></a></p></div>
+		                    </li>
+                        </ul>
+                    </div><!-- #first .aside -->
+                    <div id="second" class="aside sub-aside">
+                        <ul class="xoxo">
+                            <li id="text-4" class="widgetcontainer widget_text">			
+                                <div class="textwidget">
+                                    <div style="border-left: solid 1px #2b4045; padding-left: 30px;">
+                                        <h1>Community-powered  AwesomeCon</h1>
+                                        BarCampPhilly is an 'Unconference' – a day of programming collaboratively built by the people, for the people.  The schedule board is cultivated the morning of the event, and is open to all attendees for contributions.
+                                        <br /><br />
+                                        Content is presented by programmers, creatives, suits, entrepreneurs and artists in workshop sessions, roundtables, talks, performances, audience participation sessions and everything in between.
+                                        <br /><br />
+                                        Read more about <a href="http://www.barcampphilly.org/2010/09/15/third-times-a-charm/">what we have in store to make this year kickass</a>, and leave your <a href="http://www.barcampphilly.org/2010/09/15/third-times-a-charm/#comments">input in the comments</a>!
+                                    </div>
+                                </div>
+		                    </li>
+                        </ul>
+                    </div><!-- #second .aside -->
+                    <div id="third" class="aside sub-aside">
+                        <ul class="xoxo">
+                            <li id="text-5" class="widgetcontainer widget_text">			
+                                <div class="textwidget">
+                                    <div style="text-align: right;">
+                                        <iframe class="youtube-player" type="text/html" width="300" height="250" src="http://www.youtube.com/embed/P92ZnxInqPs" frameborder="0"></iframe>
+                                    </div>
+                                        <div style="text-align: center;">
+                                        <br />
+                                        <h2>Timelapse: BarCampPhilly 2009 Kickoff</h2>
+                                        Created by Barcamp 2009 attendees <a href=:http://labs.laan.com/" target="blank">laan labs</a>
+                                    </div>
+                                </div>
+		                    </li>
+                        </ul>
+                    </div><!-- #third .aside -->
+              
+                    </div><!-- #subsidiary -->
+                        <div id="siteinfo">        
+    		                Design by <a href="http://www.timquirino.com/" target="blank">Superhuman Graphic Designer – Tim Quirino</a>    |    Powered by <a class="wp-link" href="http://WordPress.org/" title="WordPress" rel="generator">WordPress</a> + <a class="theme-link" href="http://themeshaper.com/thematic/" title="Thematic Theme Framework" rel="designer">Thematic Theme Framework</a>    |    <b>w</b>e<b>w</b>ork<b>i</b>n<b>p</b>hilly		
+                        </div><!-- #siteinfo -->
+	                </div><!-- #footer -->
+
+        </div><!-- #wrapper .hfeed -->
+
+
+    
+</body>
+</html>

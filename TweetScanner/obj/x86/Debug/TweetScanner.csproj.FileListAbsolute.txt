@@ -1,0 +1,6 @@
+C:\Users\jtoto\projects\ohaibarcamp\TweetScanner\bin\Debug\TweetScanner.exe.config
+C:\Users\jtoto\projects\ohaibarcamp\TweetScanner\bin\Debug\TweetScanner.exe
+C:\Users\jtoto\projects\ohaibarcamp\TweetScanner\bin\Debug\TweetScanner.pdb
+C:\Users\jtoto\projects\ohaibarcamp\TweetScanner\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jtoto\projects\ohaibarcamp\TweetScanner\obj\x86\Debug\TweetScanner.exe
+C:\Users\jtoto\projects\ohaibarcamp\TweetScanner\obj\x86\Debug\TweetScanner.pdb

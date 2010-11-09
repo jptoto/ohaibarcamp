@@ -1,0 +1,1113 @@
+/*
+THEME NAME: Thematic
+THEME URI: http://themeshaper.com/thematic/
+DESCRIPTION: The ultimate in SEO-ready themes, Thematic is a highly extensible, WordPress Theme Framework featuring 13 widget-ready areas, drop-down menus, grid-based layout samples, plugin integration, shortcodes for your footer, &amp; a whole lot more. Perfect for any blog and <strong><em>the</em></strong> starting point for theme development.
+VERSION: 0.9.5.1
+AUTHOR: Ian Stewart
+AUTHOR URI: http://themeshaper.com/
+TAGS: white, three-columns, two-columns, fixed-width, theme-options, left-sidebar, right-sidebar, threaded-comments, sticky-post, microformats
+.
+The Thematic Theme is copyright Ian Stewart http://themeshaper.com/
+This work, like WordPress, is released under GNU General Public License, version 2 (GPL).
+http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+.
+*/
+
+/* Reset browser defaults */
+@import url('reset.css');
+
+/* Apply basic typography styles */
+@import url('typography.css');
+
+/* Apply basic image styles */
+@import url('images.css');
+
+/* Prepare theme for plugins */
+@import url('plugins.css');
+
+/* -------------------------------------------------------------- 
+   
+   Default styles for Images
+   
+   I've duplicated these styles here from images.css in
+   order to get Thematic through the auto-checker at the
+   official WordPress Themes directory.
+   
+   When the directory can hunt though css files linked
+   through @import the styles below will no longer be
+   neccesary and will be removed.
+   
+   Cheers. --Ian Stewart
+  
+-------------------------------------------------------------- */   
+/*CUSTOM*/ 
+#background{
+  height:100%;
+  left:0;
+  margin:0;
+  overflow:hidden;
+  padding:0;
+  position:fixed;
+  top:0;
+  width:100%;
+  z-index:-1;
+}
+#wrapper {
+	width:1035px;
+	margin:auto;
+}
+.entry-content img {
+    margin: 0 0 18px 0;
+    max-width:100%;
+}
+.alignleft,
+img.alignleft {
+	float: left;
+    margin-right:20px;
+}
+.alignright,
+img.alignright {
+	display: block;
+	float: right;
+    margin-left:20px;
+}
+.aligncenter,
+img.aligncenter {
+	margin-left:auto;
+	margin-right:auto;
+	display: block;
+	clear: both;
+}
+.wp-caption {
+	text-align: center;
+	margin-bottom:18px;
+}
+.wp-caption img {
+	margin: 0;
+	padding: 0;
+	border: 0 none;
+}
+.wp-caption p.wp-caption-text {
+	margin: 0;
+	padding:5px;
+}
+.gallery img {
+    margin:0;
+}
+.wp-smiley { /* Prevent the smileys from breaking line-height */
+	max-height:12px;
+	margin:0 !important;
+}
+/* LAYOUT */
+body {
+    min-width:960px;
+}
+#header {
+    position:relative;
+}
+#branding {
+    width:1035px;
+    margin:0 auto;
+}
+#access {
+    position:relative;
+    overflow:hidden;
+    width:1020px;
+
+}
+.menu {
+    width:1040px;
+    margin:0 auto;
+    padding:0;
+}
+#main {
+    width:1035px;
+    margin:75px 0 0 0;
+    overflow:hidden;
+    position:relative;
+    background-color: #1d2f33;
+}
+#container {
+    width:450px;
+    float:left;
+    margin:0 20px 0 30px;
+}
+#content {
+    overflow:hidden;
+    width:700px;
+}
+#primary {
+    width:195px;
+    float:left;
+    border-right:solid 1px #2b4045;
+    border-left:solid 1px #2b4045;
+    margin-bottom:22px;
+    padding:0 20px;
+}
+#secondary {
+    width:250px;
+    float:right;
+    margin:0 20px;
+}
+#footer {    
+    clear:both;
+}
+#subsidiary {
+    width:100%;
+    margin:0 auto;
+    overflow:hidden;
+}
+#subsidiary .aside {
+    width:305px;
+    float:left;
+    padding-left: 15px;
+    margin:0 10px 0 10px;
+}
+#subsidiary #third {
+    margin:0 0 0 10px;
+}
+#siteinfo {
+    clear:both;
+    width:940px;
+    margin:0 auto;
+}
+
+.textwidget {
+	color:#FFF;
+}
+#secondary .textwidget img {
+padding-bottom:20px;
+}
+.textwidget p {
+ font-size:12px;
+line-height:17px;}
+.textwidget p a {
+  color:#f8ae19;}
+.textwidget p a:hover {
+ color:#90feef;
+}
+.aktt_tweets ul {
+margin:0 !important;
+}
+.aktt_tweets ul li {
+list-style:none;
+margin:0;
+color:#FFF;
+font-size:11px;
+padding-bottom:10px !important;
+}
+.aktt_tweets ul li a {
+color:#b9d0d3;
+}
+#flickr {
+  width:200px;
+}
+#flickr img {
+border:solid 2px #f8ae19 !important;
+padding:0 !important;
+margin:5px !important;
+}
+#flickr img:hover {
+border:solid 2px #90feef !important;
+}
+#flickr div {
+float:left;
+}
+#content h1 {
+color:#FFF;
+}
+#comments {
+color:#FFF;
+}
+#content input {
+margin-top:-10px;
+padding-bottom:25px;
+}
+
+/* =Global Elements
+-------------------------------------------------------------- */
+
+body, input, textarea {
+    line-height:22px;
+}
+p, ul, ol, dd, pre {
+    margin-bottom:22px;
+}
+pre, code {
+	font:14px Monaco, monospace;
+	line-height:22px;
+}
+blockquote {
+    color:#666;
+    font-style:italic;
+}
+table {
+    border:1px solid #ccc;
+    border-width:1px 1px 0 1px;
+    font-size:13px;
+    line-height:18px;
+    margin:0 0 22px 0;
+    text-align:left;
+}
+caption {
+    text-align:left;
+}
+tr {
+    border-bottom:1px solid #ccc;
+}
+th, td {
+    padding: .7em 1.25em;
+}
+hr {
+    background-color:#ccc;
+    border:0;
+    color:#ccc;
+    height:1px;
+    margin-bottom:22px;
+}
+a {
+    color:#fa8601;
+    text-decoration:none;
+}
+a:active,
+a:hover {
+    color: #90FEEF;
+}
+
+
+/* =Header
+-------------------------------------------------------------- */
+
+#header {
+    z-index:3;
+}
+#branding {
+    padding:0 0 20px 20px;
+}
+#branding img {
+    margin:auto;
+}
+#blog-title {
+    font-family:Arial,sans-serif;
+    font-size:34px;
+    font-weight:bold;
+    line-height:40px;
+    color:#FFF;
+}
+#blog-title a {
+    color:#90feef;
+    text-decoration:none;
+}
+#blog-title a:active,
+#blog-title a:hover {
+    color: #90FEEF;
+}
+#blog-description {
+    color:#666;
+    font-size:13px;
+    font-style:italic;
+}
+
+
+/* =Menu
+-------------------------------------------------------------- */
+
+.skip-link {
+    display:none;
+}
+#access {
+    font-family: Arial narrow;
+    height:32px;
+    font-size:13px;
+    overflow:visible;
+    z-index:100;
+    border-top:solid 1px #2b4045;
+    border-bottom:solid 1px #2b4045;
+    background-color: #1d2f33;
+    margin-bottom:20px;
+    padding-bottom:4px;
+    padding-left: 15px;
+}
+/*** ESSENTIAL STYLES ***/
+.sf-menu, .sf-menu * {
+	margin:0;
+	padding:0;
+	list-style: none;
+}
+.sf-menu {
+	line-height:1.0;
+}
+.sf-menu ul {
+	position:absolute;
+	top:-999em;
+	width:10em; /* left offset of submenus need to match (see below) */
+}
+.sf-menu ul li {
+	width:100%;
+}
+.sf-menu li:hover {
+	visibility:inherit; /* fixes IE7 'sticky bug' */
+}
+.sf-menu li {
+	float:left;
+	position:relative;
+}
+.sf-menu a {
+	display:block;
+	position:relative;
+}
+.sf-menu li:hover ul,
+.sf-menu li.sfHover ul {
+	left:0;
+	top:2.5em; /* match top ul list item height */
+	z-index:99;
+}
+ul.sf-menu li:hover li ul,
+ul.sf-menu li.sfHover li ul {
+	top:-999em;
+}
+ul.sf-menu li li:hover ul,
+ul.sf-menu li li.sfHover ul {
+	left:10em; /* match ul width */
+	top:0;
+}
+ul.sf-menu li li:hover li ul,
+ul.sf-menu li li.sfHover li ul {
+	top:-999em;
+}
+ul.sf-menu li li li:hover ul,
+ul.sf-menu li li li.sfHover ul {
+	left:10em; /* match ul width */
+	top:0;
+}
+
+/*** THEMATIC SKIN ***/
+.sf-menu {
+    float:left;
+}
+.sf-menu a {
+     padding:9px 13px;
+     text-decoration:none;
+     color:#bbd0d3;
+     text-transform:uppercase;
+     font-weight:bold;
+     font-size:18px;       
+}
+.sf-menu .current_page_item a,
+.sf-menu .current_page_ancestor a,
+.sf-menu .current_page_parent a {
+}
+.sf-menu li {
+	background: none;
+}
+.sf-menu li li {
+	background: none;
+}
+.sf-menu li li li {
+	background:#bbd0d3;
+        
+}
+.sf-menu li:hover, .sf-menu li.sfHover,
+.sf-menu a:focus, .sf-menu a:hover, .sf-menu a:active {
+    background: #fa8601;
+    color: #fff;
+    outline:0;
+}
+.sf-menu ul {}
+.sf-menu li:hover ul,
+.sf-menu li.sfHover ul {
+	top:32px; /* overriding essential styles */
+}
+.sf-menu ul ul {
+    margin-top:0;
+}
+.sf-menu ul a {
+    background:#CCC;
+}
+.sf-menu ul a:hover {
+    color: #90FEEF;
+}
+
+
+/* =Content
+-------------------------------------------------------------- */
+
+#main {
+    clear:both;
+    padding:20px 0 22px 0;
+}
+.page-title {
+    font-size:13px;
+    line-height:18px;
+    padding:0 0 44px 0;
+}
+.attachment .page-title {
+    font-style:italic;
+}
+.page-title a {
+    color:#666;
+    text-decoration:none;
+}
+.page-title a:active,
+.page-title a:hover {
+    color: #90FEEF;
+}
+.page-title span {
+    font-style:italic;
+}
+.page-title .meta-nav {
+    font-style:normal;
+}
+.hentry {
+    padding:0 0 22px 0;
+}
+.single .hentry {
+    padding:0;
+}
+.home #content .sticky {
+    border:1px solid #ccc;
+    margin:0 0 66px 0;
+    padding:22px 20px 0 20px;
+}
+.entry-title {
+    font-family:Arial,sans-serif;
+    font-size:26px;
+    font-weight:normal;
+    line-height:26px;
+    padding:0 0 7px 0;
+}
+.entry-title a {
+    color:#FFF;
+    text-decoration:none;
+}
+.entry-title a:active,
+.entry-title a:hover {
+    color: #90FEEF;
+}
+.entry-meta {
+    color:#fa8601;
+    font-size:10px;
+    line-height:18px;
+}
+.entry-meta .author {
+}
+.entry-meta .n {
+    font-size:11px;
+    font-style:normal;
+    letter-spacing:0.05em;
+}
+.entry-meta a {
+    color:#fa8601;
+    text-decoration:none;
+}
+.entry-meta a:active,
+.entry-meta a:hover {
+    color: #90FEEF;
+}
+.entry-meta abbr {
+    border:none;
+    cursor:text;
+    font-size:11px;
+    font-style:normal;
+    letter-spacing:0.05em;
+    text-transform:uppercase;
+}
+.entry-content {
+    font-family:Georgia;
+    color:#FFF;
+    font-size:14px;
+    line-height:22px;
+    padding:10px 20px 0 0;
+}
+.entry-content h1 {
+    font-family:Arial,sans-serif;
+    font-size:19px;
+    font-weight:bold;
+    padding:28px 0 14px 0;
+}
+.entry-content h2 {
+    color:#90feef;
+    font-weight:bold;
+    font-style:italic;
+}
+.entry-content h3 {
+    font-size:17px;
+    font-style:italic;
+    padding:28px 0 14px 0;
+}
+.entry-content h4 {
+    font-size:11px;
+    font-family:Arial,sans-serif;
+    font-weight:bold;
+    text-transform:uppercase;
+    letter-spacing:0.05em;
+}
+.entry-content table {
+    margin-left:1px;
+}
+.entry-content embed {
+    margin:0 0 22px 0;
+}
+.entry-utility {
+    color:#fff;
+    font-size:13px;
+    line-height:18px;
+    margin:0 0 44px 0;
+}
+.entry-utility a {
+    color: #fff;
+    font-style:italic;
+    text-decoration:none;
+}
+.entry-utility a:active,
+.entry-utility a:hover {
+    color: #90FEEF;
+}
+.page-link {
+    font-size:13px;
+    font-weight:bold;
+    line-height:18px;
+    margin:0 0 22px 0;
+    padding:22px 0 0 0;
+    word-spacing:0.5em;
+}
+.page-link a {
+    border:1px solid #ccc;
+    color:#666;
+    font-weight:normal;
+    padding:0.5em 0.75em;
+    text-decoration:none;
+}
+.page-link a:active,
+.page-link a:hover {
+    color: #90FEEF;
+}
+ul#links-page,
+ul#archives-page {
+    list-style:none;
+    margin-left:0;
+    overflow:hidden;
+}
+li.content-column {
+    float:left;
+    margin-right:20px;
+    width:45%;
+}
+.gallery {
+    padding:0 0 22px 0;
+}
+.wp-caption-text,
+.gallery-caption {
+    color:#666;
+    font-size:13px;
+    line-height:18px;
+}
+#author-info {
+    margin:0 0 44px 0;
+    overflow:hidden;
+}
+#author-info .avatar {
+    float:left;
+    margin:.3em 1em 0 0;
+}
+
+
+/* =Attachments
+-------------------------------------------------------------- */
+
+.attachment-jpeg #container,
+.attachment-png #container {
+    width:100%;
+}
+.attachment-jpeg #content,
+.attachment-png #content {
+    width:930px;
+}
+.attachment-jpeg #comments,
+.attachment-png #comments {
+    width:540px;
+    overflow:hidden;
+}
+.attachment-jpeg .main-aside,
+.attachment-png .main-aside {
+    display:none;    
+}
+
+
+/* =Navigation
+-------------------------------------------------------------- */
+
+.navigation {
+    color:#666;
+    font-size:13px;
+    line-height:18px;
+    margin:0px 0 22px 0;
+    overflow:hidden;
+}
+.navigation a {
+    color:#666;
+    font-style:italic;
+    text-decoration:none;
+}
+.navigation a:active,
+.navigation a:hover {
+    color: #90FEEF;
+}
+.navigation .meta-nav {
+    font-style:normal;
+}
+.nav-previous {
+	float: left;
+	width:50%;
+}
+.nav-next {
+	float: right;
+	width:50%;
+	text-align:right;
+}
+#nav-above,#nav-below {
+	width: 100%;
+}
+#nav-above {
+    display:none;
+}
+.paged #nav-above {
+    display:block;
+    padding:0 0 44px 0;
+}
+
+
+/* =Comments
+-------------------------------------------------------------- */
+
+#comments {
+    padding:22px 0 0 0;
+    color: #fa8601;
+}
+#comments,
+#comments input,
+#comments textarea {
+    font-size:13px;
+    line-height:18px;
+}
+#comments code {
+    font-size:12px;
+    line-height:18px;
+}
+#comments h3 {
+    font-family:Arial,sans-serif;
+    font-size:15px;
+    font-weight:bold;
+    line-height:22px;
+    padding:0 0 18px 0;
+}
+#comments-list {
+    padding:0 0 18px 0;
+}
+#comments-list ol,
+#comments-list ul {
+    list-style:none;
+    margin:0;
+}
+#comments-list ol {
+    border:1px solid #ccc;
+    border-bottom:none;
+    margin:0 0 18px 0;
+}
+#comments-list li {
+    background:#fafafa;
+    border-bottom:1px solid #ccc;
+    padding:18px 1.5em 0 1.5em;
+    position:relative;
+}
+#comments-list li.alt {
+    background:#fff;
+}
+#comments-list li.bypostauthor {
+    background:#FFFFCC;
+}
+#comments-list ul li {
+    border:1px solid #ccc;
+    margin:0 0 18px 0;
+}
+#comments-list li .avatar {
+    position:absolute;
+    top:22px;
+    left:1.5em;
+    width:36px;
+    height:36px;
+}
+#comments-list .comment-author {
+    font-weight:bold;
+    padding:9px 0 0 46px;
+}
+#comments-list .comment-meta {
+    color:#666;
+    font-size:11px;
+    padding:0 0 9px 46px;
+}
+#comments-list .comment-meta a {
+    color:#666;
+    font-style:italic;
+    text-decoration:none;
+}
+#comments-list .comment-meta a:active,
+#comments-list .comment-meta a:hover {
+    color: #90FEEF;
+}
+.comment-reply-link {
+    font-size:11px;
+    padding:0 0 18px 0;
+    text-align:right;
+}
+.comment-reply-link a {
+    color:#666;
+    font-style:italic;
+    text-decoration:none;
+}
+.comment-reply-link a:active,
+.comment-reply-link a:hover {
+    color: #90FEEF;
+}
+.comment-navigation {
+    font-weight:bold;
+    padding:0 0 18px 0;
+    margin-right:0.5em;
+}
+.comment-navigation a {
+    border:1px solid #ccc;
+    color:#666;
+    font-weight:normal;
+    padding:0.5em 0.75em;
+    text-decoration:none;
+}
+.comment-navigation a:active,
+.comment-navigation a:hover {
+    color: #90FEEF;
+}
+.comment-navigation a,
+.comment-navigation span {
+    margin-right:0.5em;
+}
+#trackbacks-list .comment-content {
+    position:absolute;
+    left:-9000px;
+}
+#respond {
+    margin-bottom:22px;
+    overflow:hidden;
+    padding:18px 0 0 0;
+    position:relative;
+}
+#comments-list #respond {
+    border-bottom:1px solid #ccc;
+    margin:0 0 18px 0;
+    padding:18px 1.5em;
+}
+#comments-list ul #respond {
+    border:1px solid #ccc;
+    margin:0;
+}
+#cancel-comment-reply {
+    font-size:11px;
+    position:absolute;
+    top:18px;
+    right:1.5em;
+}
+#cancel-comment-reply a {
+    color:#666;
+}
+#respond .required {
+    color:#90FEEF;
+    font-weight:bold;
+}
+.form-section label {
+    font-size:13px;
+    line-height: 35px;
+}
+.form-section input {
+    margin:0 0 18px 0;
+    width:98%;
+}
+.form-section textarea {
+    width:99%;
+}
+#form-allowed-tags p {
+    color:#666;
+    font-size:11px;
+    margin:0;    
+}
+#form-allowed-tags span {
+    font-style:italic;
+}
+#form-allowed-tags code {
+    font-size:11px;
+    line-height:normal;
+}
+.form-submit {
+    padding:18px 0 0 0;
+    text-align:right;
+}
+.subscribe-to-comments {
+    color:#666;
+    float:left;
+    font-size:11px;
+    margin:0;
+    padding:18px 0 0 0;
+}
+.solo-subscribe-to-comments {
+    color:#666;
+    font-size:11px;
+    padding:18px 0 0 0;
+}
+.comment_license {
+    color:#666;
+    clear:both;
+    font-size:11px;
+    margin:0;
+    padding:18px 0 0 0;
+}
+
+
+/* =Asides, Sidebars & Widget-Ready Areas
+-------------------------------------------------------------- */
+
+.aside,
+.aside input {
+    font-size:13px;
+    line-height:18px;
+    margin-bottom:6px;
+}
+.aside p,
+.aside ul,
+.aside ol,
+.aside dd,
+.aside pre {
+    margin-bottom:18px;
+}
+.aside pre,
+.aside code {
+    font-size:12px;
+    line-height:18px;
+}
+.aside .current_page_item a {
+    color: #90FEEF;
+}
+.aside .current_page_item .page_item a {
+    color:#666;
+}
+.aside .current_page_item .page_item a:hover,
+.aside .current_page_item .page_item a:active {
+    color: #90FEEF;
+}
+.aside {
+    color:#666;
+}
+.aside a {
+    color:#b9d0d3;
+}
+.aside a:active,
+.aside a:hover {
+    color: #90FEEF;
+}
+.aside h3 {
+    font-size:15px;
+    font-style:italic;
+    line-height:22px;
+}
+.aside h3 a {
+    text-decoration:none;
+}
+.aside caption {
+    font-size:11px;
+    font-family:Arial,sans-serif;
+    font-weight:bold;
+    text-transform:uppercase;
+    letter-spacing:0.05em;
+}
+.aside ul {
+    list-style:none;
+    margin-left:0;
+}
+.aside ul ul {
+    list-style:disc;
+    margin:0 0 22px 20px;
+}
+.aside ul ul li {
+    padding:1px 0;
+}
+.aside ul ul ul {
+    margin-bottom:0;
+}
+.aside form,
+.aside table {
+    margin-bottom:22px;
+}
+.aside table {
+    border:none;
+}
+.aside thead {
+    border:1px solid #ccc;
+}
+.aside tbody {
+    border:1px solid #ccc;
+}
+.aside th, .aside td {
+    border-right:1px solid #ccc;
+    padding:.25em .8em;
+}
+.aside tfoot tr {
+    border:none;
+}
+.aside tfoot td {
+    border-color:transparent;
+}
+.widget_tag_cloud {
+    margin:0 0 22px 0;
+}
+.aside #searchsubmit {
+	display: none;	
+}
+/*
+    Main Asides
+*/
+.main-aside ul {
+    padding:0;
+}
+.main-aside h3 {
+	font-style:normal;
+	font-weight:bold; 
+        padding-bottom:5px;
+        font-size:14px;
+        line-height:16px;
+        color:#fa8601;
+        text-transform:uppercase;
+}
+.main-aside ul ul {
+    padding:0;
+}
+
+/*
+    Content Asides
+*/
+#content .aside {
+    border:1px solid #ccc;
+    margin:0 0 22px 0;
+    padding:18px 0 0 0;
+}
+#content .aside ul {
+    padding:0 20px;
+}
+#content .aside h3 {
+    font-weight:normal;
+    font-size:17px;
+    font-style:italic;
+    padding:0 0 7px 0;
+    text-transform:none;
+}
+#content .aside ul ul {
+    padding:0;
+}
+/*
+    Footer Asides
+*/
+#subsidiary {
+    padding:0;
+    font: 12px Georgia,serif;     
+}
+#subsidiary h1 {
+font-size: 17px;
+font-style: italic;
+color: #ffffff;
+padding-bottom: 10px;
+}
+#subsidiary h2 {
+    font: 15px;  
+    line-height: 22px;
+    color: #90feef;
+    font-weight: bold;
+    font-style: italic;    
+}
+
+
+/* =Footer
+-------------------------------------------------------------- */
+
+#footer {
+    margin-top:50px;
+    padding-top: 25px;
+    background-color: #1d2f33;
+}
+#siteinfo {
+    color:#ffffff;
+    font-size:11px;
+    line-height:18px;
+    padding:15px 0 15px 0;
+}
+#siteinfo a {
+    color:#ffffff;
+}
+#siteinfo a:active,
+#siteinfo a:hover {
+    color: #90FEEF;
+}
+
+
+/* =PageNavi
+-------------------------------------------------------------- */
+
+/* Using !important to override PageNavi CSS */
+
+.wp-pagenavi {
+    margin:0 0 0 -.5em;
+    padding:0.5em 0;    
+}
+.wp-pagenavi a, .wp-pagenavi a:link, .wp-pagenavi span {
+    border:1px solid #ccc !important;
+    color:#666!important;
+    font-style:normal;
+    margin:0 .375em !important;
+    padding:0.5em 0.25em !important;
+}
+.wp-pagenavi a:visited {
+    border:1px solid #ccc !important;
+    color:#666 !important;
+}
+.wp-pagenavi a:hover {
+    border:1px solid #ccc !important;
+    color:#90FEEF !important;
+}
+.wp-pagenavi a:active {
+    border:1px solid #ccc !important;
+    color:#90FEEF !important;
+}
+.wp-pagenavi span.pages {
+    border:none !important;
+    color:#666 !important;
+    margin:0 !important;
+    padding:0 !important;
+}
+.wp-pagenavi span.current {
+    border:none !important;
+    color:#666 !important;
+    font-weight:normal !important;
+    margin:0 !important;
+    padding:0 !important;
+}
+.wp-pagenavi span.extend {
+    background-color:#FFFFFF;
+    border:1px solid #000000;
+    color:#000000;
+    margin:2px;
+    padding:2px 4px;
+}
+
+div.entry-content h2.question {
+font-weight:100;
+/*color: #FA8601;*/
+text-transform:uppercase;
+font-style:normal;
+}
+.answer {
+margin-left:15px;
+}
