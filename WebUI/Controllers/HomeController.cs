@@ -19,16 +19,7 @@ namespace WebUI.Controllers
 
         public ActionResult Index()
         {
-            string[] tagArray = new string[10];
-            tagArray[0] = "developer";
-            tagArray[1] = "designer";
-            tagArray[2] = "asp.net";
 
-            Attendee attendee = new Attendee();
-            attendee.Name = "JP Toto";
-            attendee.TwitterURL = "http://twitter.com/jptoto";
-            attendee.AvatarURL = "http://a2.twimg.com/profile_images/1158960374/bc_normal.png";
-            attendee.Tags = tagArray;
 
             return View();
         }

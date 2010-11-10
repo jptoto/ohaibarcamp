@@ -13,24 +13,52 @@ namespace TweetScanner
 {
     class Program
     {
+        protected static MongoDBSettings Settings { get; set; }
+        static Program() {
+            Settings = new MongoDBSettings() {
+                Server = "localhost",
+                Database = "OhaiBarcamp",
+                Port = 27017                
+            };
+        }
+
         static void Main(string[] args)
         {
 
-            var input = "jptoto";
+            AttendeeRepository _repository = new AttendeeRepository() { Settings = Settings };
+
+            var input = "@barcampphilly #ohai";
             
             var scrubbed = HttpUtility.UrlEncode(input);
-            var reader = XmlReader.Create(
-                    string.Format("http://search.twitter.com/search.atom?lang=en&q={0}&page=1&rpp=1", scrubbed));
+            var reader = XmlReader.Create(string.Format("http://search.twitter.com/search.atom?lang=en&q={0}&page=1&rpp=10", scrubbed));
             var feed = SyndicationFeed.Load(reader);
 
             foreach (SyndicationItem item in feed.Items)
             {
-                Console.WriteLine("\t{0} - {1}", item.Authors[0].Name, item.Title.Text, item.Content.ToString());
+                //Console.WriteLine("\t{0} - {1}", item.Authors[0].Name, item.Title.Text, item.Content.ToString());
+                Attendee attendee = new Attendee { Name = item.Authors[0].Name, TwitterURL = item.Authors[0].Uri, AvatarURL = item.Links[1].Uri.AbsoluteUri };
+                
+                // This whole situation here is cheese. C# arrays are annoying
+                string tweet = item.Title.Text;
+                string[] tweetTags = tweet.Split(' ');
+                string[] userTags = new string[20];
+                int i = 0;
+                foreach (string tag in tweetTags)
+                {
+                    if (tag.Contains("#") && (!tag.Contains("#ohai")))
+                    {
+                        userTags[i] = tag.Replace("#","");
+                        i++;
+                    }
+                }
+
+                attendee.Tags = userTags;
+
+                // Really should try and get upserts working. Stop sucking already!
+                _repository.Remove(new { TwitterURL = attendee.TwitterURL });
+                _repository.Create(attendee);
             }
 
-
-
-            
         }
     }
 }
