@@ -6,6 +6,7 @@ using WebUI.Infrastructure;
 using Norm;
 using Norm.Linq;
 using Norm.Responses;
+using WebUI.Models;
 
 namespace WebUI.Infrastructure
 {

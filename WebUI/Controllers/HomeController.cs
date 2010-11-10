@@ -28,5 +28,10 @@ namespace WebUI.Controllers
             return View(viewModel);
         }
 
+        public ActionResult User(string Id)
+        {
+            var twitterUser =  _repository.FindById(Id);
+            return View(twitterUser);
+        }
     }
 }

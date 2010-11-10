@@ -74,7 +74,7 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Infrastructure\MongoDBSettings.cs" />
-    <Compile Include="Infrastructure\NoRMModelBase.cs" />
+    <Compile Include="Models\NoRMModelBase.cs" />
     <Compile Include="Infrastructure\NoRMRepositoryBase.cs" />
     <Compile Include="Models\Attendee.cs" />
     <Compile Include="Models\HomeViewModel.cs" />
@@ -91,10 +91,29 @@
     <Content Include="Content\css\reset.css" />
     <Content Include="Content\css\style.css" />
     <Content Include="Content\css\typography.css" />
+    <Content Include="Content\facebox\b.png" />
+    <Content Include="Content\facebox\bl.png" />
+    <Content Include="Content\facebox\br.png" />
+    <Content Include="Content\facebox\closelabel.gif" />
+    <Content Include="Content\facebox\facebox.css" />
+    <Content Include="Content\facebox\facebox.js" />
+    <Content Include="Content\facebox\faceplant.css" />
+    <Content Include="Content\facebox\index.html" />
+    <Content Include="Content\facebox\jquery.js" />
+    <Content Include="Content\facebox\loading.gif" />
+    <Content Include="Content\facebox\logo.png" />
+    <Content Include="Content\facebox\README.txt" />
+    <Content Include="Content\facebox\remote.html" />
+    <Content Include="Content\facebox\shadow.gif" />
+    <Content Include="Content\facebox\stairs.jpg" />
+    <Content Include="Content\facebox\test.html" />
+    <Content Include="Content\facebox\tl.png" />
+    <Content Include="Content\facebox\tr.png" />
     <Content Include="Content\images\barcampphilly3.png" />
     <Content Include="Content\images\bcp2010bg.jpg" />
     <Content Include="Global.asax" />
     <Content Include="Views\Home\Index.aspx" />
+    <Content Include="Views\Home\User.aspx" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -116,7 +135,9 @@
     <Content Include="Scripts\MicrosoftMvcValidation.debug.js" />
     <Content Include="Views\Web.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <None Include="Content\facebox\build_tar.sh" />
+  </ItemGroup>
   <ItemGroup>
     <Content Include="Views\Shared\Site.Master" />
   </ItemGroup>

@@ -8,7 +8,8 @@
 
 	<% foreach (var attendee in Model.Attendees)
     { %>
-         <img src="<%: attendee.AvatarURL %>" />
+         <a rel="facebox" href="<%: Url.Action("User", "Home", new { id = attendee.Id }) %>"><img src="<%: attendee.AvatarURL %>" /></a>
+
     <% } %>
 
 </asp:Content>

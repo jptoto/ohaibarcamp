@@ -1,0 +1,2050 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:google="http://base.google.com/ns/1.0" xml:lang="en-US" xmlns:openSearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:georss="http://www.georss.org/georss" xmlns="http://www.w3.org/2005/Atom" xmlns:twitter="http://api.twitter.com/">
+  <id>tag:search.twitter.com,2005:search/jptoto</id>
+  <link type="text/html" href="http://search.twitter.com/search?q=jptoto" rel="alternate"/>
+  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?lang=en&amp;q=jptoto&amp;page=1&amp;rpp=100" rel="self"/>
+  <title>jptoto - Twitter Search</title>
+  <link type="application/opensearchdescription+xml" href="http://search.twitter.com/opensearch.xml" rel="search"/>
+  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?lang=en&amp;page=1&amp;q=jptoto&amp;rpp=100&amp;since_id=2019614812803072" rel="refresh"/>
+  <twitter:warning>adjusted since_id to 29477515673 (2010-11-02 15:00:00 UTC), requested since_id was older than allowedsince_id removed for pagination.</twitter:warning>
+  <updated>2010-11-09T15:28:08Z</updated>
+  <openSearch:itemsPerPage>100</openSearch:itemsPerPage>
+  <openSearch:language>en</openSearch:language>
+  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?lang=en&amp;max_id=2019614812803072&amp;page=2&amp;q=jptoto&amp;rpp=100" rel="next"/>
+  <entry>
+    <id>tag:search.twitter.com,2005:2019614812803072</id>
+    <published>2010-11-09T15:28:08Z</published>
+    <link type="text/html" href="http://twitter.com/DrunkWatch/statuses/2019614812803072" rel="alternate"/>
+    <title>Cheers! RT @tobinharris @jptoto Getting pissed = Getting drunk. Pissing it down = raining. Pissed = drunk (angry in US). Taking the p...</title>
+    <content type="html">Cheers! RT &lt;a href=&quot;http://twitter.com/tobinharris&quot;&gt;@tobinharris&lt;/a&gt; &lt;a href=&quot;http://twitter.com/jptoto&quot;&gt;@&lt;b&gt;jptoto&lt;/b&gt;&lt;/a&gt; Getting pissed = Getting drunk. Pissing it down = raining. Pissed = drunk (angry in US). Taking the p...</content>
+    <updated>2010-11-09T15:28:08Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/1084834215/633632504774181002-RockBottom_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitterfeed.com&quot; rel=&quot;nofollow&quot;&gt;twitterfeed&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>DrunkWatch (Drunk Watch)</name>
+      <uri>http://twitter.com/DrunkWatch</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:2018595412385792</id>
+    <published>2010-11-09T15:24:05Z</published>
+    <link type="text/html" href="http://twitter.com/srcasm/statuses/2018595412385792" rel="alternate"/>
+    <title>@jptoto @kfitzpatrick thanks to both of yah!</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/jptoto&quot;&gt;@&lt;b&gt;jptoto&lt;/b&gt;&lt;/a&gt; &lt;a href=&quot;http://twitter.com/kfitzpatrick&quot;&gt;@kfitzpatrick&lt;/a&gt; thanks to both of yah!</content>
+    <updated>2010-11-09T15:24:05Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/1126047575/my_profile_down_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>srcasm (Jesse Middleton)</name>
+      <uri>http://twitter.com/srcasm</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:2016173868716032</id>
+    <published>2010-11-09T15:14:27Z</published>
+    <link type="text/html" href="http://twitter.com/jptoto/statuses/2016173868716032" rel="alternate"/>
+    <title>@tobinharris Hang on hang on... writing all this down. Excellent :-)</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/tobinharris&quot;&gt;@tobinharris&lt;/a&gt; Hang on hang on... writing all this down. Excellent :-)</content>
+    <updated>2010-11-09T15:14:27Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1158960374/bc_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.metrotwit.com/&quot; rel=&quot;nofollow&quot;&gt;MetroTwit&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jptoto (JP Toto)</name>
+      <uri>http://twitter.com/jptoto</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:2016009649127425</id>
+    <published>2010-11-09T15:13:48Z</published>
+    <link type="text/html" href="http://twitter.com/tobinharris/statuses/2016009649127425" rel="alternate"/>
+    <title>@jptoto Getting pissed = Getting drunk. Pissing it down = raining. Pissed = drunk (angry in US). Taking the piss = insulting someone.</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/jptoto&quot;&gt;@&lt;b&gt;jptoto&lt;/b&gt;&lt;/a&gt; Getting pissed = Getting drunk. Pissing it down = raining. Pissed = drunk (angry in US). Taking the piss = insulting someone.</content>
+    <updated>2010-11-09T15:13:48Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/570069875/Photo_15_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com&quot; rel=&quot;nofollow&quot;&gt;Tweetie for Mac&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>tobinharris (tobinharris)</name>
+      <uri>http://twitter.com/tobinharris</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:2015253382569984</id>
+    <published>2010-11-09T15:10:48Z</published>
+    <link type="text/html" href="http://twitter.com/jptoto/statuses/2015253382569984" rel="alternate"/>
+    <title>@kfitzpatrick @srcasm Ditto what Kevin said. Hands down.</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/kfitzpatrick&quot;&gt;@kfitzpatrick&lt;/a&gt; &lt;a href=&quot;http://twitter.com/srcasm&quot;&gt;@srcasm&lt;/a&gt; Ditto what Kevin said. Hands down.</content>
+    <updated>2010-11-09T15:10:48Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1158960374/bc_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.metrotwit.com/&quot; rel=&quot;nofollow&quot;&gt;MetroTwit&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jptoto (JP Toto)</name>
+      <uri>http://twitter.com/jptoto</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:2007518620422144</id>
+    <published>2010-11-09T14:40:04Z</published>
+    <link type="text/html" href="http://twitter.com/jptoto/statuses/2007518620422144" rel="alternate"/>
+    <title>The latest http://appsumo.com/ bundle, which I only know about from @alexknowshtml mentioning last week, is looking strong.</title>
+    <content type="html">The latest &lt;a href=&quot;http://appsumo.com/&quot;&gt;http://appsumo.com/&lt;/a&gt; bundle, which I only know about from &lt;a href=&quot;http://twitter.com/alexknowshtml&quot;&gt;@alexknowshtml&lt;/a&gt; mentioning last week, is looking strong.</content>
+    <updated>2010-11-09T14:40:04Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1158960374/bc_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:place>
+      <twitter:id>a906602d22b1ddf0</twitter:id>
+      <twitter:full_name>Conshohocken, PA</twitter:full_name>
+      <twitter:type>city</twitter:type>
+    </twitter:place>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jptoto (JP Toto)</name>
+      <uri>http://twitter.com/jptoto</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:2006020184350720</id>
+    <published>2010-11-09T14:34:07Z</published>
+    <link type="text/html" href="http://twitter.com/jptoto/statuses/2006020184350720" rel="alternate"/>
+    <title>@tobinharris Does that mean getting drunk?</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/tobinharris&quot;&gt;@tobinharris&lt;/a&gt; Does that mean getting drunk?</content>
+    <updated>2010-11-09T14:34:07Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1158960374/bc_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.metrotwit.com/&quot; rel=&quot;nofollow&quot;&gt;MetroTwit&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jptoto (JP Toto)</name>
+      <uri>http://twitter.com/jptoto</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:2001451408691200</id>
+    <published>2010-11-09T14:15:57Z</published>
+    <link type="text/html" href="http://twitter.com/jptoto/statuses/2001451408691200" rel="alternate"/>
+    <title>@cashion Meet @bartmroz , Magento slinger extraordinaire.</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/cashion&quot;&gt;@cashion&lt;/a&gt; Meet &lt;a href=&quot;http://twitter.com/bartmroz&quot;&gt;@bartmroz&lt;/a&gt; , Magento slinger extraordinaire.</content>
+    <updated>2010-11-09T14:15:57Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1158960374/bc_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.metrotwit.com/&quot; rel=&quot;nofollow&quot;&gt;MetroTwit&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jptoto (JP Toto)</name>
+      <uri>http://twitter.com/jptoto</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:2001156234547200</id>
+    <published>2010-11-09T14:14:47Z</published>
+    <link type="text/html" href="http://twitter.com/eedawson/statuses/2001156234547200" rel="alternate"/>
+    <title>@jptoto Oh damn, really? Sorry. I was really cold &amp; just wanted to sit down! Throw a shoe at me next time or something.</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/jptoto&quot;&gt;@&lt;b&gt;jptoto&lt;/b&gt;&lt;/a&gt; Oh damn, really? Sorry. I was really cold &amp;amp; just wanted to sit down! Throw a shoe at me next time or something.</content>
+    <updated>2010-11-09T14:14:47Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/1043224924/32061_782634437206_5502424_43687760_2606247_n_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>eedawson (Elizabeth Dawson)</name>
+      <uri>http://twitter.com/eedawson</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1971501561552896</id>
+    <published>2010-11-09T12:16:57Z</published>
+    <link type="text/html" href="http://twitter.com/jptoto/statuses/1971501561552896" rel="alternate"/>
+    <title>Why is Nancy Kerrigan pitching me vacuum cleaners? #fb</title>
+    <content type="html">Why is Nancy Kerrigan pitching me vacuum cleaners? &lt;a href=&quot;http://search.twitter.com/search?q=%23fb&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#fb');&quot;&gt;#fb&lt;/a&gt;</content>
+    <updated>2010-11-09T12:16:57Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1158960374/bc_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.echofon.com/&quot; rel=&quot;nofollow&quot;&gt;Echofon&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jptoto (JP Toto)</name>
+      <uri>http://twitter.com/jptoto</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1966685145792512</id>
+    <published>2010-11-09T11:57:48Z</published>
+    <link type="text/html" href="http://twitter.com/jptoto/statuses/1966685145792512" rel="alternate"/>
+    <title>I failed to make my goal of 197.8 lb by weighing in at 200.6 lb and received $15 in penalties! :( http://bit.ly/c6769k</title>
+    <content type="html">I failed to make my goal of 197.8 lb by weighing in at 200.6 lb and received $15 in penalties! :( &lt;a href=&quot;http://bit.ly/c6769k&quot;&gt;http://bit.ly/c6769k&lt;/a&gt;</content>
+    <updated>2010-11-09T11:57:48Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1158960374/bc_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://loseitorloseit.com&quot; rel=&quot;nofollow&quot;&gt;Lose It or Lose It&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jptoto (JP Toto)</name>
+      <uri>http://twitter.com/jptoto</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1837464691937280</id>
+    <published>2010-11-09T03:24:20Z</published>
+    <link type="text/html" href="http://twitter.com/radiocolin/statuses/1837464691937280" rel="alternate"/>
+    <title>@jptoto @amanda_nan Praise the Lord and pass the ammunition</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/jptoto&quot;&gt;@&lt;b&gt;jptoto&lt;/b&gt;&lt;/a&gt; &lt;a href=&quot;http://twitter.com/amanda_nan&quot;&gt;@amanda_nan&lt;/a&gt; Praise the Lord and pass the ammunition</content>
+    <updated>2010-11-09T03:24:20Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/1157282569/ballpark_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>radiocolin (Colin Weir)</name>
+      <uri>http://twitter.com/radiocolin</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1833816658288640</id>
+    <published>2010-11-09T03:09:50Z</published>
+    <link type="text/html" href="http://twitter.com/jptoto/statuses/1833816658288640" rel="alternate"/>
+    <title>@amanda_nan What is WRONG with you guys!?!</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/amanda_nan&quot;&gt;@amanda_nan&lt;/a&gt; What is WRONG with you guys!?!</content>
+    <updated>2010-11-09T03:09:50Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1158960374/bc_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.echofon.com/&quot; rel=&quot;nofollow&quot;&gt;Echofon&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jptoto (JP Toto)</name>
+      <uri>http://twitter.com/jptoto</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1832861552353280</id>
+    <published>2010-11-09T03:06:02Z</published>
+    <link type="text/html" href="http://twitter.com/iaminigomontoya/statuses/1832861552353280" rel="alternate"/>
+    <title>@jptoto You keep using that word. I do not think it means what you think it means.</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/jptoto&quot;&gt;@&lt;b&gt;jptoto&lt;/b&gt;&lt;/a&gt; You keep using that word. I do not think it means what you think it means.</content>
+    <updated>2010-11-09T03:06:02Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/469498101/inigo1_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://muffinlabs.com&quot; rel=&quot;nofollow&quot;&gt;botly&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>iaminigomontoya (Inigo Montoya)</name>
+      <uri>http://twitter.com/iaminigomontoya</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1828767152476160</id>
+    <published>2010-11-09T02:49:46Z</published>
+    <link type="text/html" href="http://twitter.com/cnagele/statuses/1828767152476160" rel="alternate"/>
+    <title>@jptoto Cayenne! Didn't go with the S or Turbo, but the new models are awesome. Can't wait to drive it some more.</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/jptoto&quot;&gt;@&lt;b&gt;jptoto&lt;/b&gt;&lt;/a&gt; Cayenne! Didn&amp;apos;t go with the S or Turbo, but the new models are awesome. Can&amp;apos;t wait to drive it some more.</content>
+    <updated>2010-11-09T02:49:46Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/53635958/n500092368_800_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>cnagele (Chris Nagele)</name>
+      <uri>http://twitter.com/cnagele</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1821560205746176</id>
+    <published>2010-11-09T02:21:08Z</published>
+    <link type="text/html" href="http://twitter.com/k8iedid/statuses/1821560205746176" rel="alternate"/>
+    <title>@jerseyshorejen @jptoto DOUBLE befuddled. I even explained twitter like standing on his biggest Karaoke stage ...&amp; still NADA!</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/jerseyshorejen&quot;&gt;@jerseyshorejen&lt;/a&gt; &lt;a href=&quot;http://twitter.com/jptoto&quot;&gt;@&lt;b&gt;jptoto&lt;/b&gt;&lt;/a&gt; DOUBLE befuddled. I even explained twitter like standing on his biggest Karaoke stage ...&amp;amp; still NADA!</content>
+    <updated>2010-11-09T02:21:08Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/1115986677/Me_headshot_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>k8iedid (Katie Sweeney)</name>
+      <uri>http://twitter.com/k8iedid</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1819504254386176</id>
+    <published>2010-11-09T02:12:58Z</published>
+    <link type="text/html" href="http://twitter.com/jerseyshorejen/statuses/1819504254386176" rel="alternate"/>
+    <title>@k8iedid @jptoto This befuddles me. Jim seems like a perfect fit for the internets.</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/k8iedid&quot;&gt;@k8iedid&lt;/a&gt; &lt;a href=&quot;http://twitter.com/jptoto&quot;&gt;@&lt;b&gt;jptoto&lt;/b&gt;&lt;/a&gt; This befuddles me. Jim seems like a perfect fit for the internets.</content>
+    <updated>2010-11-09T02:12:58Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/827650098/n644780355_1547401_3884_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jerseyshorejen (Jen A. Miller)</name>
+      <uri>http://twitter.com/jerseyshorejen</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1819010937126912</id>
+    <published>2010-11-09T02:11:00Z</published>
+    <link type="text/html" href="http://twitter.com/jptoto/statuses/1819010937126912" rel="alternate"/>
+    <title>@k8iedid I know Jim doesn't &quot;do the Internet&quot; but you really need to get him on the twitters :-)</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/k8iedid&quot;&gt;@k8iedid&lt;/a&gt; I know Jim doesn&amp;apos;t &amp;quot;do the Internet&amp;quot; but you really need to get him on the twitters :-)</content>
+    <updated>2010-11-09T02:11:00Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1158960374/bc_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.echofon.com/&quot; rel=&quot;nofollow&quot;&gt;Echofon&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jptoto (JP Toto)</name>
+      <uri>http://twitter.com/jptoto</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1813291638726656</id>
+    <published>2010-11-09T01:48:17Z</published>
+    <link type="text/html" href="http://twitter.com/jptoto/statuses/1813291638726656" rel="alternate"/>
+    <title>Homeward   @ SEPTA: Market East Station http://instagr.am/p/MgIl/</title>
+    <content type="html">Homeward   @ SEPTA: Market East Station &lt;a href=&quot;http://instagr.am/p/MgIl/&quot;&gt;http://instagr.am/p/MgIl/&lt;/a&gt;</content>
+    <updated>2010-11-09T01:48:17Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1158960374/bc_normal.png" rel="image"/>
+    <twitter:geo>
+<georss:point>39.9525 -75.158</georss:point>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:place>
+      <twitter:id>ec57dd5ab01cadc0</twitter:id>
+      <twitter:full_name>Center City East, Philadelphia</twitter:full_name>
+      <twitter:type>neighborhood</twitter:type>
+    </twitter:place>
+    <twitter:source>&lt;a href=&quot;http://instagr.am&quot; rel=&quot;nofollow&quot;&gt;instagram&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jptoto (JP Toto)</name>
+      <uri>http://twitter.com/jptoto</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1807954055532544</id>
+    <published>2010-11-09T01:27:04Z</published>
+    <link type="text/html" href="http://twitter.com/jptoto/statuses/1807954055532544" rel="alternate"/>
+    <title>@cnagele Is that a Panamera? Nice compromise!</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/cnagele&quot;&gt;@cnagele&lt;/a&gt; Is that a Panamera? Nice compromise!</content>
+    <updated>2010-11-09T01:27:04Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1158960374/bc_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.echofon.com/&quot; rel=&quot;nofollow&quot;&gt;Echofon&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jptoto (JP Toto)</name>
+      <uri>http://twitter.com/jptoto</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1792185787744256</id>
+    <published>2010-11-09T00:24:25Z</published>
+    <link type="text/html" href="http://twitter.com/jptoto/statuses/1792185787744256" rel="alternate"/>
+    <title>OH: Shit costs money.</title>
+    <content type="html">OH: Shit costs money.</content>
+    <updated>2010-11-09T00:24:25Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1158960374/bc_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.echofon.com/&quot; rel=&quot;nofollow&quot;&gt;Echofon&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jptoto (JP Toto)</name>
+      <uri>http://twitter.com/jptoto</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1785446031949824</id>
+    <published>2010-11-08T23:57:38Z</published>
+    <link type="text/html" href="http://twitter.com/jptoto/statuses/1785446031949824" rel="alternate"/>
+    <title>@tikaro That's what I'm takin 'bout.</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/tikaro&quot;&gt;@tikaro&lt;/a&gt; That&amp;apos;s what I&amp;apos;m takin &amp;apos;bout.</content>
+    <updated>2010-11-08T23:57:38Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1158960374/bc_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.echofon.com/&quot; rel=&quot;nofollow&quot;&gt;Echofon&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jptoto (JP Toto)</name>
+      <uri>http://twitter.com/jptoto</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1778595391340544</id>
+    <published>2010-11-08T23:30:24Z</published>
+    <link type="text/html" href="http://twitter.com/tikaro/statuses/1778595391340544" rel="alternate"/>
+    <title>@jptoto ...as soon as I can find such a versatile bandanna.</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/jptoto&quot;&gt;@&lt;b&gt;jptoto&lt;/b&gt;&lt;/a&gt; ...as soon as I can find such a versatile bandanna.</content>
+    <updated>2010-11-08T23:30:24Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1157441534/mustache_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitterrific.com&quot; rel=&quot;nofollow&quot;&gt;Twitterrific&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>tikaro (John Young)</name>
+      <uri>http://twitter.com/tikaro</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1778457059008512</id>
+    <published>2010-11-08T23:29:51Z</published>
+    <link type="text/html" href="http://twitter.com/tikaro/statuses/1778457059008512" rel="alternate"/>
+    <title>@jptoto I'm hoping to start a geek/German shepherd wearing a bandanna that catches frisbees and rides in a sidecar thing.</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/jptoto&quot;&gt;@&lt;b&gt;jptoto&lt;/b&gt;&lt;/a&gt; I&amp;apos;m hoping to start a geek/German shepherd wearing a bandanna that catches frisbees and rides in a sidecar thing.</content>
+    <updated>2010-11-08T23:29:51Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1157441534/mustache_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitterrific.com&quot; rel=&quot;nofollow&quot;&gt;Twitterrific&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>tikaro (John Young)</name>
+      <uri>http://twitter.com/tikaro</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1769952944070656</id>
+    <published>2010-11-08T22:56:04Z</published>
+    <link type="text/html" href="http://twitter.com/jptoto/statuses/1769952944070656" rel="alternate"/>
+    <title>Some girl going bananas at the 11th st MFL. Cops practically had to wrestle her to the ground. Good times.</title>
+    <content type="html">Some girl going bananas at the 11th st MFL. Cops practically had to wrestle her to the ground. Good times.</content>
+    <updated>2010-11-08T22:56:04Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1158960374/bc_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.echofon.com/&quot; rel=&quot;nofollow&quot;&gt;Echofon&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jptoto (JP Toto)</name>
+      <uri>http://twitter.com/jptoto</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1767607787065344</id>
+    <published>2010-11-08T22:46:45Z</published>
+    <link type="text/html" href="http://twitter.com/jptoto/statuses/1767607787065344" rel="alternate"/>
+    <title>@wavingatyou No idea. If so we might have to move!</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/wavingatyou&quot;&gt;@wavingatyou&lt;/a&gt; No idea. If so we might have to move!</content>
+    <updated>2010-11-08T22:46:45Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1158960374/bc_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.echofon.com/&quot; rel=&quot;nofollow&quot;&gt;Echofon&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jptoto (JP Toto)</name>
+      <uri>http://twitter.com/jptoto</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1767127967080449</id>
+    <published>2010-11-08T22:44:50Z</published>
+    <link type="text/html" href="http://twitter.com/wavingatyou/statuses/1767127967080449" rel="alternate"/>
+    <title>@jptoto Isn't Science on Tap at @natmechanics tonight? My girlfriend is introducing the speaker, I think, b/c her museum is sponsoring it.</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/jptoto&quot;&gt;@&lt;b&gt;jptoto&lt;/b&gt;&lt;/a&gt; Isn&amp;apos;t Science on Tap at &lt;a href=&quot;http://twitter.com/natmechanics&quot;&gt;@natmechanics&lt;/a&gt; tonight? My girlfriend is introducing the speaker, I think, b/c her museum is sponsoring it.</content>
+    <updated>2010-11-08T22:44:50Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/1152292953/scooter_bear_punch_normal.GIF" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>wavingatyou (Scooter)</name>
+      <uri>http://twitter.com/wavingatyou</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1765784938352640</id>
+    <published>2010-11-08T22:39:30Z</published>
+    <link type="text/html" href="http://twitter.com/jptoto/statuses/1765784938352640" rel="alternate"/>
+    <title>I'll never understand the geek/cat thing.</title>
+    <content type="html">I&amp;apos;ll never understand the geek/cat thing.</content>
+    <updated>2010-11-08T22:39:30Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1158960374/bc_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.echofon.com/&quot; rel=&quot;nofollow&quot;&gt;Echofon&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jptoto (JP Toto)</name>
+      <uri>http://twitter.com/jptoto</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1763749572648960</id>
+    <published>2010-11-08T22:31:25Z</published>
+    <link type="text/html" href="http://twitter.com/jptoto/statuses/1763749572648960" rel="alternate"/>
+    <title>LOL Wade Philips #fb</title>
+    <content type="html">LOL Wade Philips &lt;a href=&quot;http://search.twitter.com/search?q=%23fb&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#fb');&quot;&gt;#fb&lt;/a&gt;</content>
+    <updated>2010-11-08T22:31:25Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1158960374/bc_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.echofon.com/&quot; rel=&quot;nofollow&quot;&gt;Echofon&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jptoto (JP Toto)</name>
+      <uri>http://twitter.com/jptoto</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1762545622843392</id>
+    <published>2010-11-08T22:26:38Z</published>
+    <link type="text/html" href="http://twitter.com/jptoto/statuses/1762545622843392" rel="alternate"/>
+    <title>@amanda_nan Also. I think you should change your handle to Commanda_Nan.</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/amanda_nan&quot;&gt;@amanda_nan&lt;/a&gt; Also. I think you should change your handle to Commanda_Nan.</content>
+    <updated>2010-11-08T22:26:38Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1158960374/bc_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.echofon.com/&quot; rel=&quot;nofollow&quot;&gt;Echofon&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jptoto (JP Toto)</name>
+      <uri>http://twitter.com/jptoto</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1762386440626176</id>
+    <published>2010-11-08T22:26:00Z</published>
+    <link type="text/html" href="http://twitter.com/jptoto/statuses/1762386440626176" rel="alternate"/>
+    <title>@amanda_nan Mebbeh! When I get to market east I'm getting on the mfl.</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/amanda_nan&quot;&gt;@amanda_nan&lt;/a&gt; Mebbeh! When I get to market east I&amp;apos;m getting on the mfl.</content>
+    <updated>2010-11-08T22:26:00Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1158960374/bc_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.echofon.com/&quot; rel=&quot;nofollow&quot;&gt;Echofon&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jptoto (JP Toto)</name>
+      <uri>http://twitter.com/jptoto</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1760591383367680</id>
+    <published>2010-11-08T22:18:52Z</published>
+    <link type="text/html" href="http://twitter.com/jptoto/statuses/1760591383367680" rel="alternate"/>
+    <title>Gosh. @eedawson just walked right past me on the train. I'm just another faceless stranger ;-)</title>
+    <content type="html">Gosh. &lt;a href=&quot;http://twitter.com/eedawson&quot;&gt;@eedawson&lt;/a&gt; just walked right past me on the train. I&amp;apos;m just another faceless stranger ;-)</content>
+    <updated>2010-11-08T22:18:52Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1158960374/bc_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.echofon.com/&quot; rel=&quot;nofollow&quot;&gt;Echofon&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jptoto (JP Toto)</name>
+      <uri>http://twitter.com/jptoto</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1758120254640128</id>
+    <published>2010-11-08T22:09:03Z</published>
+    <link type="text/html" href="http://twitter.com/jptoto/statuses/1758120254640128" rel="alternate"/>
+    <title>@stellargirl Feels like that lately!</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/stellargirl&quot;&gt;@stellargirl&lt;/a&gt; Feels like that lately!</content>
+    <updated>2010-11-08T22:09:03Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1158960374/bc_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.echofon.com/&quot; rel=&quot;nofollow&quot;&gt;Echofon&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jptoto (JP Toto)</name>
+      <uri>http://twitter.com/jptoto</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1754830657814528</id>
+    <published>2010-11-08T21:55:58Z</published>
+    <link type="text/html" href="http://twitter.com/codevoyeur/statuses/1754830657814528" rel="alternate"/>
+    <title>@jptoto @sbohlen It's not easy living with all that moose and flannel around...  :p</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/jptoto&quot;&gt;@&lt;b&gt;jptoto&lt;/b&gt;&lt;/a&gt; &lt;a href=&quot;http://twitter.com/sbohlen&quot;&gt;@sbohlen&lt;/a&gt; It&amp;apos;s not easy living with all that moose and flannel around...  :p</content>
+    <updated>2010-11-08T21:55:58Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/1021356320/headshot_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:place>
+      <twitter:id>086752cb03de1d5d</twitter:id>
+      <twitter:full_name>Manhattan, NY</twitter:full_name>
+      <twitter:type>city</twitter:type>
+    </twitter:place>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>codevoyeur (John Zablocki)</name>
+      <uri>http://twitter.com/codevoyeur</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1753040105242624</id>
+    <published>2010-11-08T21:48:51Z</published>
+    <link type="text/html" href="http://twitter.com/sbohlen/statuses/1753040105242624" rel="alternate"/>
+    <title>@jptoto @codevoyeur perhaps...but let's hope it doesn't become the &quot;great white north&quot; for at least a few more weeks :)</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/jptoto&quot;&gt;@&lt;b&gt;jptoto&lt;/b&gt;&lt;/a&gt; &lt;a href=&quot;http://twitter.com/codevoyeur&quot;&gt;@codevoyeur&lt;/a&gt; perhaps...but let&amp;apos;s hope it doesn&amp;apos;t become the &amp;quot;great white north&amp;quot; for at least a few more weeks :)</content>
+    <updated>2010-11-08T21:48:51Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/770223370/twitterProfilePhoto_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>sbohlen (Steve Bohlen)</name>
+      <uri>http://twitter.com/sbohlen</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1752490861137920</id>
+    <published>2010-11-08T21:46:41Z</published>
+    <link type="text/html" href="http://twitter.com/jptoto/statuses/1752490861137920" rel="alternate"/>
+    <title>@sbohlen The &quot;north of CT&quot;. Can we start calling @codevoyeur a North Man?</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/sbohlen&quot;&gt;@sbohlen&lt;/a&gt; The &amp;quot;north of CT&amp;quot;. Can we start calling &lt;a href=&quot;http://twitter.com/codevoyeur&quot;&gt;@codevoyeur&lt;/a&gt; a North Man?</content>
+    <updated>2010-11-08T21:46:41Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1158960374/bc_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.metrotwit.com/&quot; rel=&quot;nofollow&quot;&gt;MetroTwit&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jptoto (JP Toto)</name>
+      <uri>http://twitter.com/jptoto</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1750314541645824</id>
+    <published>2010-11-08T21:38:02Z</published>
+    <link type="text/html" href="http://twitter.com/jptoto/statuses/1750314541645824" rel="alternate"/>
+    <title>@KelaniNichole Pants would be good but are, as always, optional. And yes - I 'm in the faraway 'burbs of ConshohockenLand!</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/KelaniNichole&quot;&gt;@KelaniNichole&lt;/a&gt; Pants would be good but are, as always, optional. And yes - I &amp;apos;m in the faraway &amp;apos;burbs of ConshohockenLand!</content>
+    <updated>2010-11-08T21:38:02Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1158960374/bc_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.metrotwit.com/&quot; rel=&quot;nofollow&quot;&gt;MetroTwit&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jptoto (JP Toto)</name>
+      <uri>http://twitter.com/jptoto</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1749812152107008</id>
+    <published>2010-11-08T21:36:02Z</published>
+    <link type="text/html" href="http://twitter.com/KelaniNichole/statuses/1749812152107008" rel="alternate"/>
+    <title>@jptoto either you are in the far away land of the burbs or I still haven't figured out meh clocks.  Either way &#8211; time to put on pants!</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/jptoto&quot;&gt;@&lt;b&gt;jptoto&lt;/b&gt;&lt;/a&gt; either you are in the far away land of the burbs or I still haven&amp;apos;t figured out meh clocks.  Either way &#8211; time to put on pants!</content>
+    <updated>2010-11-08T21:36:02Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/1083369187/Picture_118_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.twhirl.org&quot; rel=&quot;nofollow&quot;&gt;Seesmic twhirl&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>KelaniNichole (Kelani Nichole)</name>
+      <uri>http://twitter.com/KelaniNichole</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1749266510909440</id>
+    <published>2010-11-08T21:33:52Z</published>
+    <link type="text/html" href="http://twitter.com/jptoto/statuses/1749266510909440" rel="alternate"/>
+    <title>Time to pack up and head to @natmechanics to catch @KelaniNichole, @stellargirl, and @sarahphymn for some @BarCampPhilly planz.</title>
+    <content type="html">Time to pack up and head to &lt;a href=&quot;http://twitter.com/natmechanics&quot;&gt;@natmechanics&lt;/a&gt; to catch &lt;a href=&quot;http://twitter.com/KelaniNichole&quot;&gt;@KelaniNichole&lt;/a&gt;, &lt;a href=&quot;http://twitter.com/stellargirl&quot;&gt;@stellargirl&lt;/a&gt;, and &lt;a href=&quot;http://twitter.com/sarahphymn&quot;&gt;@sarahphymn&lt;/a&gt; for some &lt;a href=&quot;http://twitter.com/BarCampPhilly&quot;&gt;@BarCampPhilly&lt;/a&gt; planz.</content>
+    <updated>2010-11-08T21:33:52Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1158960374/bc_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.metrotwit.com/&quot; rel=&quot;nofollow&quot;&gt;MetroTwit&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jptoto (JP Toto)</name>
+      <uri>http://twitter.com/jptoto</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1714347789262849</id>
+    <published>2010-11-08T19:15:07Z</published>
+    <link type="text/html" href="http://twitter.com/jptoto/statuses/1714347789262849" rel="alternate"/>
+    <title>RT @BarCampPhilly: Have you ever wanted to do this? http://bit.ly/66SkFr Bring your eWaste to our Kickoff Party @IndyHall!  This Friday 6-9PM &#8211; RSVP required!</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/BarCampPhilly&quot;&gt;@BarCampPhilly&lt;/a&gt;: Have you ever wanted to do this? &lt;a href=&quot;http://bit.ly/66SkFr&quot;&gt;http://bit.ly/66SkFr&lt;/a&gt; Bring your eWaste to our Kickoff Party &lt;a href=&quot;http://twitter.com/IndyHall&quot;&gt;@IndyHall&lt;/a&gt;!  This Friday 6-9PM &#8211; RSVP required!</content>
+    <updated>2010-11-08T19:15:07Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1158960374/bc_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jptoto (JP Toto)</name>
+      <uri>http://twitter.com/jptoto</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1707999336861696</id>
+    <published>2010-11-08T18:49:53Z</published>
+    <link type="text/html" href="http://twitter.com/thedavedev/statuses/1707999336861696" rel="alternate"/>
+    <title>@jptoto Great to hear! Theres 1,600+ #wp7 apps already including mine - DoodlePad.  http://twitpic.com/35425c http://twitpic.com/35425w</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/jptoto&quot;&gt;@&lt;b&gt;jptoto&lt;/b&gt;&lt;/a&gt; Great to hear! Theres 1,600+ &lt;a href=&quot;http://search.twitter.com/search?q=%23wp7&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#wp7');&quot;&gt;#wp7&lt;/a&gt; apps already including mine - DoodlePad.  &lt;a href=&quot;http://twitpic.com/35425c&quot;&gt;http://twitpic.com/35425c&lt;/a&gt; &lt;a href=&quot;http://twitpic.com/35425w&quot;&gt;http://twitpic.com/35425w&lt;/a&gt;</content>
+    <updated>2010-11-08T18:49:53Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/1142296029/d2227832-4f72-4cf5-8bd7-ff6f32904dbb_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>thedavedev (David Isbitski)</name>
+      <uri>http://twitter.com/thedavedev</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1707293271920640</id>
+    <published>2010-11-08T18:47:05Z</published>
+    <link type="text/html" href="http://twitter.com/jptoto/statuses/1707293271920640" rel="alternate"/>
+    <title>@alphex Me too. REALLY enjoyed that :-)</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/alphex&quot;&gt;@alphex&lt;/a&gt; Me too. REALLY enjoyed that :-)</content>
+    <updated>2010-11-08T18:47:05Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1158960374/bc_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.metrotwit.com/&quot; rel=&quot;nofollow&quot;&gt;MetroTwit&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jptoto (JP Toto)</name>
+      <uri>http://twitter.com/jptoto</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1706527870164992</id>
+    <published>2010-11-08T18:44:02Z</published>
+    <link type="text/html" href="http://twitter.com/alphex/statuses/1706527870164992" rel="alternate"/>
+    <title>@jptoto that commercial made me LOL</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/jptoto&quot;&gt;@&lt;b&gt;jptoto&lt;/b&gt;&lt;/a&gt; that commercial made me LOL</content>
+    <updated>2010-11-08T18:44:02Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/148137932/akira0119_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com&quot; rel=&quot;nofollow&quot;&gt;Tweetie for Mac&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>alphex (Duran Goodyear)</name>
+      <uri>http://twitter.com/alphex</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1705385421447168</id>
+    <published>2010-11-08T18:39:30Z</published>
+    <link type="text/html" href="http://twitter.com/jptoto/statuses/1705385421447168" rel="alternate"/>
+    <title>Jimmy Kimmel's RPG says &quot;proud n00b&quot; on the COD Black Ops commercial. Awesome.</title>
+    <content type="html">Jimmy Kimmel&amp;apos;s RPG says &amp;quot;proud n00b&amp;quot; on the COD Black Ops commercial. Awesome.</content>
+    <updated>2010-11-08T18:39:30Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1158960374/bc_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.metrotwit.com/&quot; rel=&quot;nofollow&quot;&gt;MetroTwit&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jptoto (JP Toto)</name>
+      <uri>http://twitter.com/jptoto</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1705102658248704</id>
+    <published>2010-11-08T18:38:22Z</published>
+    <link type="text/html" href="http://twitter.com/jptoto/statuses/1705102658248704" rel="alternate"/>
+    <title>@codevoyeur Yeah I was following your updates. I'll have to get an in person demo of one soon. Glad you got a replacement!</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/codevoyeur&quot;&gt;@codevoyeur&lt;/a&gt; Yeah I was following your updates. I&amp;apos;ll have to get an in person demo of one soon. Glad you got a replacement!</content>
+    <updated>2010-11-08T18:38:22Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1158960374/bc_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.metrotwit.com/&quot; rel=&quot;nofollow&quot;&gt;MetroTwit&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jptoto (JP Toto)</name>
+      <uri>http://twitter.com/jptoto</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1704779050913792</id>
+    <published>2010-11-08T18:37:05Z</published>
+    <link type="text/html" href="http://twitter.com/codevoyeur/statuses/1704779050913792" rel="alternate"/>
+    <title>@jptoto Btw, replaced faulty phone.  WP7 is freaking amazing.</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/jptoto&quot;&gt;@&lt;b&gt;jptoto&lt;/b&gt;&lt;/a&gt; Btw, replaced faulty phone.  WP7 is freaking amazing.</content>
+    <updated>2010-11-08T18:37:05Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/1021356320/headshot_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:place>
+      <twitter:id>83421559e73cacf3</twitter:id>
+      <twitter:full_name>Civic Center, New York</twitter:full_name>
+      <twitter:type>neighborhood</twitter:type>
+    </twitter:place>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>codevoyeur (John Zablocki)</name>
+      <uri>http://twitter.com/codevoyeur</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1702759560646656</id>
+    <published>2010-11-08T18:29:04Z</published>
+    <link type="text/html" href="http://twitter.com/jptoto/statuses/1702759560646656" rel="alternate"/>
+    <title>Finally installed the Zune software for the first time so I can see what kind of #WP7 apps are available for launch.</title>
+    <content type="html">Finally installed the Zune software for the first time so I can see what kind of &lt;a href=&quot;http://search.twitter.com/search?q=%23WP7&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#WP7');&quot;&gt;#WP7&lt;/a&gt; apps are available for launch.</content>
+    <updated>2010-11-08T18:29:04Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1158960374/bc_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.metrotwit.com/&quot; rel=&quot;nofollow&quot;&gt;MetroTwit&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jptoto (JP Toto)</name>
+      <uri>http://twitter.com/jptoto</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1694855948410880</id>
+    <published>2010-11-08T17:57:39Z</published>
+    <link type="text/html" href="http://twitter.com/jptoto/statuses/1694855948410880" rel="alternate"/>
+    <title>@chrischau Nope. The schedule is blank until Saturday morning. Get there early to make sure you get a spot!</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/chrischau&quot;&gt;@chrischau&lt;/a&gt; Nope. The schedule is blank until Saturday morning. Get there early to make sure you get a spot!</content>
+    <updated>2010-11-08T17:57:39Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1158960374/bc_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.metrotwit.com/&quot; rel=&quot;nofollow&quot;&gt;MetroTwit&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jptoto (JP Toto)</name>
+      <uri>http://twitter.com/jptoto</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1690032201011200</id>
+    <published>2010-11-08T17:38:29Z</published>
+    <link type="text/html" href="http://twitter.com/chrischau/statuses/1690032201011200" rel="alternate"/>
+    <title>@jptoto hey got a question about barcamp, is there anything special that we have to do to present? Like submission of the topic?</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/jptoto&quot;&gt;@&lt;b&gt;jptoto&lt;/b&gt;&lt;/a&gt; hey got a question about barcamp, is there anything special that we have to do to present? Like submission of the topic?</content>
+    <updated>2010-11-08T17:38:29Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1144860950/IMG_1860_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.echofon.com/&quot; rel=&quot;nofollow&quot;&gt;Echofon&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>chrischau (Chris Chau)</name>
+      <uri>http://twitter.com/chrischau</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1683747074215936</id>
+    <published>2010-11-08T17:13:31Z</published>
+    <link type="text/html" href="http://twitter.com/alexhung/statuses/1683747074215936" rel="alternate"/>
+    <title>@jptoto We're using it for authentication, for now. Pretty nice.</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/jptoto&quot;&gt;@&lt;b&gt;jptoto&lt;/b&gt;&lt;/a&gt; We&amp;apos;re using it for authentication, for now. Pretty nice.</content>
+    <updated>2010-11-08T17:13:31Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1004626390/TweetLandPhoto_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://seesmic.com/seesmic_desktop/sd2&quot; rel=&quot;nofollow&quot;&gt;Seesmic Desktop&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>alexhung (Alex Hung)</name>
+      <uri>http://twitter.com/alexhung</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1682145579892736</id>
+    <published>2010-11-08T17:07:09Z</published>
+    <link type="text/html" href="http://twitter.com/jptoto/statuses/1682145579892736" rel="alternate"/>
+    <title>@jglozano Ugh. I like to ditch as much infrastructure as I can! I take your point, though. You're probably right!</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/jglozano&quot;&gt;@jglozano&lt;/a&gt; Ugh. I like to ditch as much infrastructure as I can! I take your point, though. You&amp;apos;re probably right!</content>
+    <updated>2010-11-08T17:07:09Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1158960374/bc_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.metrotwit.com/&quot; rel=&quot;nofollow&quot;&gt;MetroTwit&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jptoto (JP Toto)</name>
+      <uri>http://twitter.com/jptoto</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1681881280028673</id>
+    <published>2010-11-08T17:06:06Z</published>
+    <link type="text/html" href="http://twitter.com/jglozano/statuses/1681881280028673" rel="alternate"/>
+    <title>@jptoto because many asp.net devs don't understand Open ID/OpenAuth - to many &quot;security&quot; is &quot;membership provider&quot;</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/jptoto&quot;&gt;@&lt;b&gt;jptoto&lt;/b&gt;&lt;/a&gt; because many asp.net devs don&amp;apos;t understand Open ID/OpenAuth - to many &amp;quot;security&amp;quot; is &amp;quot;membership provider&amp;quot;</content>
+    <updated>2010-11-08T17:06:06Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/422214231/headshot_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jglozano (Javier Lozano)</name>
+      <uri>http://twitter.com/jglozano</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1681526961999872</id>
+    <published>2010-11-08T17:04:41Z</published>
+    <link type="text/html" href="http://twitter.com/jptoto/statuses/1681526961999872" rel="alternate"/>
+    <title>Fiddling with DotNetOpenAuth a little. How are more people NOT using this?</title>
+    <content type="html">Fiddling with DotNetOpenAuth a little. How are more people NOT using this?</content>
+    <updated>2010-11-08T17:04:41Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1158960374/bc_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.metrotwit.com/&quot; rel=&quot;nofollow&quot;&gt;MetroTwit&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jptoto (JP Toto)</name>
+      <uri>http://twitter.com/jptoto</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1676714744750081</id>
+    <published>2010-11-08T16:45:34Z</published>
+    <link type="text/html" href="http://twitter.com/jptoto/statuses/1676714744750081" rel="alternate"/>
+    <title>@polexa Ahhh good one!!</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/polexa&quot;&gt;@polexa&lt;/a&gt; Ahhh good one!!</content>
+    <updated>2010-11-08T16:45:34Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1158960374/bc_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.metrotwit.com/&quot; rel=&quot;nofollow&quot;&gt;MetroTwit&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jptoto (JP Toto)</name>
+      <uri>http://twitter.com/jptoto</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1676331565715456</id>
+    <published>2010-11-08T16:44:03Z</published>
+    <link type="text/html" href="http://twitter.com/polexa/statuses/1676331565715456" rel="alternate"/>
+    <title>@jptoto how about unpretexted sex?</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/jptoto&quot;&gt;@&lt;b&gt;jptoto&lt;/b&gt;&lt;/a&gt; how about unpretexted sex?</content>
+    <updated>2010-11-08T16:44:03Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/1149457656/4089386146_415fb37975_b_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.echofon.com/&quot; rel=&quot;nofollow&quot;&gt;Echofon&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>polexa (Powen Shiah)</name>
+      <uri>http://twitter.com/polexa</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1674243649572864</id>
+    <published>2010-11-08T16:35:45Z</published>
+    <link type="text/html" href="http://twitter.com/jptoto/statuses/1674243649572864" rel="alternate"/>
+    <title>I am up $10.02 compliments the county of Montgomery. Jury duty PAYS.</title>
+    <content type="html">I am up $10.02 compliments the county of Montgomery. Jury duty PAYS.</content>
+    <updated>2010-11-08T16:35:45Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1158960374/bc_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.metrotwit.com/&quot; rel=&quot;nofollow&quot;&gt;MetroTwit&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jptoto (JP Toto)</name>
+      <uri>http://twitter.com/jptoto</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1672890038624256</id>
+    <published>2010-11-08T16:30:22Z</published>
+    <link type="text/html" href="http://twitter.com/jptoto/statuses/1672890038624256" rel="alternate"/>
+    <title>@codevoyeur Well that's a good endorsement!</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/codevoyeur&quot;&gt;@codevoyeur&lt;/a&gt; Well that&amp;apos;s a good endorsement!</content>
+    <updated>2010-11-08T16:30:22Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1158960374/bc_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.metrotwit.com/&quot; rel=&quot;nofollow&quot;&gt;MetroTwit&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jptoto (JP Toto)</name>
+      <uri>http://twitter.com/jptoto</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1669781287608320</id>
+    <published>2010-11-08T16:18:01Z</published>
+    <link type="text/html" href="http://twitter.com/codevoyeur/statuses/1669781287608320" rel="alternate"/>
+    <title>@jptoto Well, for the 10 minutes I actually got to use it, I've never been more impressed with a phone...</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/jptoto&quot;&gt;@&lt;b&gt;jptoto&lt;/b&gt;&lt;/a&gt; Well, for the 10 minutes I actually got to use it, I&amp;apos;ve never been more impressed with a phone...</content>
+    <updated>2010-11-08T16:18:01Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/1021356320/headshot_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:place>
+      <twitter:id>086752cb03de1d5d</twitter:id>
+      <twitter:full_name>Manhattan, NY</twitter:full_name>
+      <twitter:type>city</twitter:type>
+    </twitter:place>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>codevoyeur (John Zablocki)</name>
+      <uri>http://twitter.com/codevoyeur</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1668818476736513</id>
+    <published>2010-11-08T16:14:11Z</published>
+    <link type="text/html" href="http://twitter.com/jptoto/statuses/1668818476736513" rel="alternate"/>
+    <title>@codevoyeur LOL. So... the jury is still out.</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/codevoyeur&quot;&gt;@codevoyeur&lt;/a&gt; LOL. So... the jury is still out.</content>
+    <updated>2010-11-08T16:14:11Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1158960374/bc_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.metrotwit.com/&quot; rel=&quot;nofollow&quot;&gt;MetroTwit&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jptoto (JP Toto)</name>
+      <uri>http://twitter.com/jptoto</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1668251515883520</id>
+    <published>2010-11-08T16:11:56Z</published>
+    <link type="text/html" href="http://twitter.com/codevoyeur/statuses/1668251515883520" rel="alternate"/>
+    <title>@jptoto Having very mixed reaction to the phone so far!  Can't get past AT&amp;T's welcome screen!</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/jptoto&quot;&gt;@&lt;b&gt;jptoto&lt;/b&gt;&lt;/a&gt; Having very mixed reaction to the phone so far!  Can&amp;apos;t get past AT&amp;amp;T&amp;apos;s welcome screen!</content>
+    <updated>2010-11-08T16:11:56Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/1021356320/headshot_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:place>
+      <twitter:id>086752cb03de1d5d</twitter:id>
+      <twitter:full_name>Manhattan, NY</twitter:full_name>
+      <twitter:type>city</twitter:type>
+    </twitter:place>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>codevoyeur (John Zablocki)</name>
+      <uri>http://twitter.com/codevoyeur</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1667125118767104</id>
+    <published>2010-11-08T16:07:28Z</published>
+    <link type="text/html" href="http://twitter.com/jptoto/statuses/1667125118767104" rel="alternate"/>
+    <title>Anyone on AT&amp;T picking up a Samsung Focus today? @codevoyeur?</title>
+    <content type="html">Anyone on AT&amp;amp;T picking up a Samsung Focus today? &lt;a href=&quot;http://twitter.com/codevoyeur&quot;&gt;@codevoyeur&lt;/a&gt;?</content>
+    <updated>2010-11-08T16:07:28Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1158960374/bc_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.metrotwit.com/&quot; rel=&quot;nofollow&quot;&gt;MetroTwit&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jptoto (JP Toto)</name>
+      <uri>http://twitter.com/jptoto</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1665984796565504</id>
+    <published>2010-11-08T16:02:56Z</published>
+    <link type="text/html" href="http://twitter.com/jptoto/statuses/1665984796565504" rel="alternate"/>
+    <title>@stovak Yeah, we did the tix to encourage accountability. Please add yourself to the waitlist. Things should open up.</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/stovak&quot;&gt;@stovak&lt;/a&gt; Yeah, we did the tix to encourage accountability. Please add yourself to the waitlist. Things should open up.</content>
+    <updated>2010-11-08T16:02:56Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1158960374/bc_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.metrotwit.com/&quot; rel=&quot;nofollow&quot;&gt;MetroTwit&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jptoto (JP Toto)</name>
+      <uri>http://twitter.com/jptoto</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1656778454466560</id>
+    <published>2010-11-08T15:26:21Z</published>
+    <link type="text/html" href="http://twitter.com/jptoto/statuses/1656778454466560" rel="alternate"/>
+    <title>@nsmith107 @thegracious Reading now. Looks interesting. Not sure I need to try it so badly I want to get in on the private beta, though.</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/nsmith107&quot;&gt;@nsmith107&lt;/a&gt; &lt;a href=&quot;http://twitter.com/thegracious&quot;&gt;@thegracious&lt;/a&gt; Reading now. Looks interesting. Not sure I need to try it so badly I want to get in on the private beta, though.</content>
+    <updated>2010-11-08T15:26:21Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1158960374/bc_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.metrotwit.com/&quot; rel=&quot;nofollow&quot;&gt;MetroTwit&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jptoto (JP Toto)</name>
+      <uri>http://twitter.com/jptoto</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1649691255111681</id>
+    <published>2010-11-08T14:58:11Z</published>
+    <link type="text/html" href="http://twitter.com/jptoto/statuses/1649691255111681" rel="alternate"/>
+    <title>@kyleburton Love that idea. The cord isn't in any the places I thought I left it so I've officially upgraded the status to &quot;Lost&quot; :-(</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/kyleburton&quot;&gt;@kyleburton&lt;/a&gt; Love that idea. The cord isn&amp;apos;t in any the places I thought I left it so I&amp;apos;ve officially upgraded the status to &amp;quot;Lost&amp;quot; :-(</content>
+    <updated>2010-11-08T14:58:11Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1158960374/bc_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.metrotwit.com/&quot; rel=&quot;nofollow&quot;&gt;MetroTwit&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jptoto (JP Toto)</name>
+      <uri>http://twitter.com/jptoto</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1648856869638144</id>
+    <published>2010-11-08T14:54:52Z</published>
+    <link type="text/html" href="http://twitter.com/kyleburton/statuses/1648856869638144" rel="alternate"/>
+    <title>@jptoto makes me thing a string / tether between the powersupply and my backpack would be a great/cheap way of having this not happen :/</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/jptoto&quot;&gt;@&lt;b&gt;jptoto&lt;/b&gt;&lt;/a&gt; makes me thing a string / tether between the powersupply and my backpack would be a great/cheap way of having this not happen :/</content>
+    <updated>2010-11-08T14:54:52Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/72535248/kyle-profile-photo-150x216_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.realmacsoftware.com/socialite&quot; rel=&quot;nofollow&quot;&gt;Socialite.app&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>kyleburton (kyleburton)</name>
+      <uri>http://twitter.com/kyleburton</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1646637332041728</id>
+    <published>2010-11-08T14:46:03Z</published>
+    <link type="text/html" href="http://twitter.com/jptoto/statuses/1646637332041728" rel="alternate"/>
+    <title>I think I just made up the word &quot;unprotexted sex&quot;.</title>
+    <content type="html">I think I just made up the word &amp;quot;unprotexted sex&amp;quot;.</content>
+    <updated>2010-11-08T14:46:03Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1158960374/bc_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.metrotwit.com/&quot; rel=&quot;nofollow&quot;&gt;MetroTwit&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jptoto (JP Toto)</name>
+      <uri>http://twitter.com/jptoto</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1639557137170433</id>
+    <published>2010-11-08T14:17:55Z</published>
+    <link type="text/html" href="http://twitter.com/jptoto/statuses/1639557137170433" rel="alternate"/>
+    <title>RT @BarCampPhilly: Thinking about leading a session this year?  Here are some guidelines to help make this year's schedule kickass  http://bit.ly/dg5gGN</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/BarCampPhilly&quot;&gt;@BarCampPhilly&lt;/a&gt;: Thinking about leading a session this year?  Here are some guidelines to help make this year&amp;apos;s schedule kickass  &lt;a href=&quot;http://bit.ly/dg5gGN&quot;&gt;http://bit.ly/dg5gGN&lt;/a&gt;</content>
+    <updated>2010-11-08T14:17:55Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1158960374/bc_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jptoto (JP Toto)</name>
+      <uri>http://twitter.com/jptoto</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1632580621312000</id>
+    <published>2010-11-08T13:50:12Z</published>
+    <link type="text/html" href="http://twitter.com/jptoto/statuses/1632580621312000" rel="alternate"/>
+    <title>@briandonahue @briandonahue Haha. Totally agreed :-)</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/briandonahue&quot;&gt;@briandonahue&lt;/a&gt; &lt;a href=&quot;http://twitter.com/briandonahue&quot;&gt;@briandonahue&lt;/a&gt; Haha. Totally agreed :-)</content>
+    <updated>2010-11-08T13:50:12Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1158960374/bc_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.metrotwit.com/&quot; rel=&quot;nofollow&quot;&gt;MetroTwit&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jptoto (JP Toto)</name>
+      <uri>http://twitter.com/jptoto</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1632500329742336</id>
+    <published>2010-11-08T13:49:53Z</published>
+    <link type="text/html" href="http://twitter.com/jptoto/statuses/1632500329742336" rel="alternate"/>
+    <title>@stovak That's kinda the point of selling them, yes. What's your situation?</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/stovak&quot;&gt;@stovak&lt;/a&gt; That&amp;apos;s kinda the point of selling them, yes. What&amp;apos;s your situation?</content>
+    <updated>2010-11-08T13:49:53Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1158960374/bc_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.metrotwit.com/&quot; rel=&quot;nofollow&quot;&gt;MetroTwit&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jptoto (JP Toto)</name>
+      <uri>http://twitter.com/jptoto</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1625225569509376</id>
+    <published>2010-11-08T13:20:58Z</published>
+    <link type="text/html" href="http://twitter.com/briandonahue/statuses/1625225569509376" rel="alternate"/>
+    <title>@davekonopka @jptoto &quot;ROFLcopterz all the way across the sky, LOL, LOL, OMG!&quot; - to the tune of &quot;Double Rainbow&quot;</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/davekonopka&quot;&gt;@davekonopka&lt;/a&gt; &lt;a href=&quot;http://twitter.com/jptoto&quot;&gt;@&lt;b&gt;jptoto&lt;/b&gt;&lt;/a&gt; &amp;quot;ROFLcopterz all the way across the sky, LOL, LOL, OMG!&amp;quot; - to the tune of &amp;quot;Double Rainbow&amp;quot;</content>
+    <updated>2010-11-08T13:20:58Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/68927034/IMG_7423_normal.JPG" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>briandonahue (briandonahue)</name>
+      <uri>http://twitter.com/briandonahue</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1619779903291393</id>
+    <published>2010-11-08T12:59:20Z</published>
+    <link type="text/html" href="http://twitter.com/davekonopka/statuses/1619779903291393" rel="alternate"/>
+    <title>@jptoto At this point it's ROFLCowboys flying around on top of ROFLCopterz.</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/jptoto&quot;&gt;@&lt;b&gt;jptoto&lt;/b&gt;&lt;/a&gt; At this point it&amp;apos;s ROFLCowboys flying around on top of ROFLCopterz.</content>
+    <updated>2010-11-08T12:59:20Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/1158839433/dk2_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>davekonopka (Dave Konopka)</name>
+      <uri>http://twitter.com/davekonopka</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1614909607518208</id>
+    <published>2010-11-08T12:39:59Z</published>
+    <link type="text/html" href="http://twitter.com/jptoto/statuses/1614909607518208" rel="alternate"/>
+    <title>@thegracious What's rock melt?</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/thegracious&quot;&gt;@thegracious&lt;/a&gt; What&amp;apos;s rock melt?</content>
+    <updated>2010-11-08T12:39:59Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1158960374/bc_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.echofon.com/&quot; rel=&quot;nofollow&quot;&gt;Echofon&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jptoto (JP Toto)</name>
+      <uri>http://twitter.com/jptoto</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1611500464640000</id>
+    <published>2010-11-08T12:26:26Z</published>
+    <link type="text/html" href="http://twitter.com/thegracious/statuses/1611500464640000" rel="alternate"/>
+    <title>@jptoto Thoughts on Rock Melt?</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/jptoto&quot;&gt;@&lt;b&gt;jptoto&lt;/b&gt;&lt;/a&gt; Thoughts on Rock Melt?</content>
+    <updated>2010-11-08T12:26:26Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/445283551/thegracious-sm_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>thegracious (The Gracious)</name>
+      <uri>http://twitter.com/thegracious</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1606844543930368</id>
+    <published>2010-11-08T12:07:56Z</published>
+    <link type="text/html" href="http://twitter.com/jptoto/statuses/1606844543930368" rel="alternate"/>
+    <title>@thedavedev Is the marketplace open today too?</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/thedavedev&quot;&gt;@thedavedev&lt;/a&gt; Is the marketplace open today too?</content>
+    <updated>2010-11-08T12:07:56Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1158960374/bc_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.echofon.com/&quot; rel=&quot;nofollow&quot;&gt;Echofon&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jptoto (JP Toto)</name>
+      <uri>http://twitter.com/jptoto</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1491894022438912</id>
+    <published>2010-11-08T04:31:09Z</published>
+    <link type="text/html" href="http://twitter.com/jesselamb/statuses/1491894022438912" rel="alternate"/>
+    <title>@stovak we got tickets. Ask @jptoto whether tickets will be strongly enforced.</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/stovak&quot;&gt;@stovak&lt;/a&gt; we got tickets. Ask &lt;a href=&quot;http://twitter.com/jptoto&quot;&gt;@&lt;b&gt;jptoto&lt;/b&gt;&lt;/a&gt; whether tickets will be strongly enforced.</content>
+    <updated>2010-11-08T04:31:09Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/944211012/newavatar_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jesselamb (Jesse Lamb)</name>
+      <uri>http://twitter.com/jesselamb</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1384560860340225</id>
+    <published>2010-11-07T21:24:39Z</published>
+    <link type="text/html" href="http://twitter.com/codevoyeur/statuses/1384560860340225" rel="alternate"/>
+    <title>@jptoto @alexhung  @sbohlen  JP - I wouldn't &quot;like&quot; just yet.  You haven't seen your task list #JuniorProgrammer</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/jptoto&quot;&gt;@&lt;b&gt;jptoto&lt;/b&gt;&lt;/a&gt; &lt;a href=&quot;http://twitter.com/alexhung&quot;&gt;@alexhung&lt;/a&gt;  &lt;a href=&quot;http://twitter.com/sbohlen&quot;&gt;@sbohlen&lt;/a&gt;  JP - I wouldn&amp;apos;t &amp;quot;like&amp;quot; just yet.  You haven&amp;apos;t seen your task list &lt;a href=&quot;http://search.twitter.com/search?q=%23JuniorProgrammer&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#JuniorProgrammer');&quot;&gt;#JuniorProgrammer&lt;/a&gt;</content>
+    <updated>2010-11-07T21:24:39Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/1021356320/headshot_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:place>
+      <twitter:id>cd979d2e352c4f54</twitter:id>
+      <twitter:full_name>Park Slope, New York</twitter:full_name>
+      <twitter:type>neighborhood</twitter:type>
+    </twitter:place>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>codevoyeur (John Zablocki)</name>
+      <uri>http://twitter.com/codevoyeur</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1361534244618240</id>
+    <published>2010-11-07T19:53:09Z</published>
+    <link type="text/html" href="http://twitter.com/jptoto/statuses/1361534244618240" rel="alternate"/>
+    <title>http://bit.ly/d1qIPD So. Quidditch as an NCAA sport?</title>
+    <content type="html">&lt;a href=&quot;http://bit.ly/d1qIPD&quot;&gt;http://bit.ly/d1qIPD&lt;/a&gt; So. Quidditch as an NCAA sport?</content>
+    <updated>2010-11-07T19:53:09Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1158960374/bc_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.echofon.com/&quot; rel=&quot;nofollow&quot;&gt;Echofon&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jptoto (JP Toto)</name>
+      <uri>http://twitter.com/jptoto</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1292802935758848</id>
+    <published>2010-11-07T15:20:02Z</published>
+    <link type="text/html" href="http://twitter.com/jptoto/statuses/1292802935758848" rel="alternate"/>
+    <title>I just shared &quot;Spinach &amp; feta egg white omelet with basil pesto toast &amp; sliced tomato.&quot; and $1 to help fight hunger! http://bit.ly/9v8jym</title>
+    <content type="html">I just shared &amp;quot;Spinach &amp;amp; feta egg white omelet with basil pesto toast &amp;amp; sliced tomato.&amp;quot; and $1 to help fight hunger! &lt;a href=&quot;http://bit.ly/9v8jym&quot;&gt;http://bit.ly/9v8jym&lt;/a&gt;</content>
+    <updated>2010-11-07T15:20:02Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1158960374/bc_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://shareurmeal.com&quot; rel=&quot;nofollow&quot;&gt;ShareUrMeal&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jptoto (JP Toto)</name>
+      <uri>http://twitter.com/jptoto</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1239554631671808</id>
+    <published>2010-11-07T11:48:27Z</published>
+    <link type="text/html" href="http://twitter.com/jptoto/statuses/1239554631671808" rel="alternate"/>
+    <title>@oliviamunn Save Doc Brown! Duh!</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/oliviamunn&quot;&gt;@oliviamunn&lt;/a&gt; Save Doc Brown! Duh!</content>
+    <updated>2010-11-07T11:48:27Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1158960374/bc_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.echofon.com/&quot; rel=&quot;nofollow&quot;&gt;Echofon&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jptoto (JP Toto)</name>
+      <uri>http://twitter.com/jptoto</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1239166381719552</id>
+    <published>2010-11-07T11:46:54Z</published>
+    <link type="text/html" href="http://twitter.com/jptoto/statuses/1239166381719552" rel="alternate"/>
+    <title>@karlseguin Totally disagree. Loved BoB. The Pacific didn't bite me the same way :-)</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/karlseguin&quot;&gt;@karlseguin&lt;/a&gt; Totally disagree. Loved BoB. The Pacific didn&amp;apos;t bite me the same way :-)</content>
+    <updated>2010-11-07T11:46:54Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1158960374/bc_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.echofon.com/&quot; rel=&quot;nofollow&quot;&gt;Echofon&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jptoto (JP Toto)</name>
+      <uri>http://twitter.com/jptoto</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1238684863037440</id>
+    <published>2010-11-07T11:45:00Z</published>
+    <link type="text/html" href="http://twitter.com/jptoto/statuses/1238684863037440" rel="alternate"/>
+    <title>@themartorana Homebrew is pretty sweet.</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/themartorana&quot;&gt;@themartorana&lt;/a&gt; Homebrew is pretty sweet.</content>
+    <updated>2010-11-07T11:45:00Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1158960374/bc_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.echofon.com/&quot; rel=&quot;nofollow&quot;&gt;Echofon&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jptoto (JP Toto)</name>
+      <uri>http://twitter.com/jptoto</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1082377526837248</id>
+    <published>2010-11-07T01:23:53Z</published>
+    <link type="text/html" href="http://twitter.com/chaess/statuses/1082377526837248" rel="alternate"/>
+    <title>@jptoto yeah. it's generally not the laptop that gets you, it's the accessories that add up.</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/jptoto&quot;&gt;@&lt;b&gt;jptoto&lt;/b&gt;&lt;/a&gt; yeah. it&amp;apos;s generally not the laptop that gets you, it&amp;apos;s the accessories that add up.</content>
+    <updated>2010-11-07T01:23:53Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/497210045/ascpic_80x80_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://seesmic.com/seesmic_desktop/sd2&quot; rel=&quot;nofollow&quot;&gt;Seesmic Desktop&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>chaess (Alan Chaess)</name>
+      <uri>http://twitter.com/chaess</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1068263521910784</id>
+    <published>2010-11-07T00:27:48Z</published>
+    <link type="text/html" href="http://twitter.com/jptoto/statuses/1068263521910784" rel="alternate"/>
+    <title>Yay singing toll booth operators!</title>
+    <content type="html">Yay singing toll booth operators!</content>
+    <updated>2010-11-07T00:27:48Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1158960374/bc_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.echofon.com/&quot; rel=&quot;nofollow&quot;&gt;Echofon&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jptoto (JP Toto)</name>
+      <uri>http://twitter.com/jptoto</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1047803207880704</id>
+    <published>2010-11-06T23:06:30Z</published>
+    <link type="text/html" href="http://twitter.com/alphex/statuses/1047803207880704" rel="alternate"/>
+    <title>@jptoto well then... Yes. Use an external USB connected optical drive.</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/jptoto&quot;&gt;@&lt;b&gt;jptoto&lt;/b&gt;&lt;/a&gt; well then... Yes. Use an external USB connected optical drive.</content>
+    <updated>2010-11-06T23:06:30Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/148137932/akira0119_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>alphex (Duran Goodyear)</name>
+      <uri>http://twitter.com/alphex</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1041620715700224</id>
+    <published>2010-11-06T22:41:56Z</published>
+    <link type="text/html" href="http://twitter.com/jptoto/statuses/1041620715700224" rel="alternate"/>
+    <title>@chaess Yeah. Now I have 3 total.</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/chaess&quot;&gt;@chaess&lt;/a&gt; Yeah. Now I have 3 total.</content>
+    <updated>2010-11-06T22:41:56Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1158960374/bc_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.metrotwit.com/&quot; rel=&quot;nofollow&quot;&gt;MetroTwit&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jptoto (JP Toto)</name>
+      <uri>http://twitter.com/jptoto</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1041125406146561</id>
+    <published>2010-11-06T22:39:58Z</published>
+    <link type="text/html" href="http://twitter.com/chaess/statuses/1041125406146561" rel="alternate"/>
+    <title>@jptoto that's why you buy 2 or more spares. one to leave at home, work, and for your laptop bag.</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/jptoto&quot;&gt;@&lt;b&gt;jptoto&lt;/b&gt;&lt;/a&gt; that&amp;apos;s why you buy 2 or more spares. one to leave at home, work, and for your laptop bag.</content>
+    <updated>2010-11-06T22:39:58Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/497210045/ascpic_80x80_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://seesmic.com/seesmic_desktop/sd2&quot; rel=&quot;nofollow&quot;&gt;Seesmic Desktop&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>chaess (Alan Chaess)</name>
+      <uri>http://twitter.com/chaess</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1030601104695296</id>
+    <published>2010-11-06T21:58:09Z</published>
+    <link type="text/html" href="http://twitter.com/jptoto/statuses/1030601104695296" rel="alternate"/>
+    <title>@eedawson Or defenses took the day off.</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/eedawson&quot;&gt;@eedawson&lt;/a&gt; Or defenses took the day off.</content>
+    <updated>2010-11-06T21:58:09Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1158960374/bc_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.metrotwit.com/&quot; rel=&quot;nofollow&quot;&gt;MetroTwit&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jptoto (JP Toto)</name>
+      <uri>http://twitter.com/jptoto</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1026401205485568</id>
+    <published>2010-11-06T21:41:27Z</published>
+    <link type="text/html" href="http://twitter.com/jptoto/statuses/1026401205485568" rel="alternate"/>
+    <title>@alphex Unless you pop out the optical drive and use something like this http://is.gd/gMVG7</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/alphex&quot;&gt;@alphex&lt;/a&gt; Unless you pop out the optical drive and use something like this &lt;a href=&quot;http://is.gd/gMVG7&quot;&gt;http://is.gd/gMVG7&lt;/a&gt;</content>
+    <updated>2010-11-06T21:41:27Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1158960374/bc_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.metrotwit.com/&quot; rel=&quot;nofollow&quot;&gt;MetroTwit&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jptoto (JP Toto)</name>
+      <uri>http://twitter.com/jptoto</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1026132426096640</id>
+    <published>2010-11-06T21:40:23Z</published>
+    <link type="text/html" href="http://twitter.com/alphex/statuses/1026132426096640" rel="alternate"/>
+    <title>@jptoto ... MBP's only have 1 drive bay.</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/jptoto&quot;&gt;@&lt;b&gt;jptoto&lt;/b&gt;&lt;/a&gt; ... MBP&amp;apos;s only have 1 drive bay.</content>
+    <updated>2010-11-06T21:40:23Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/148137932/akira0119_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>alphex (Duran Goodyear)</name>
+      <uri>http://twitter.com/alphex</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1020544916914176</id>
+    <published>2010-11-06T21:18:11Z</published>
+    <link type="text/html" href="http://twitter.com/jptoto/statuses/1020544916914176" rel="alternate"/>
+    <title>Learned a $79 lesson today. NEVER unpack my MBP power cord in a place I'm not likely to remember to re pack it.</title>
+    <content type="html">Learned a $79 lesson today. NEVER unpack my MBP power cord in a place I&amp;apos;m not likely to remember to re pack it.</content>
+    <updated>2010-11-06T21:18:11Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1158960374/bc_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.metrotwit.com/&quot; rel=&quot;nofollow&quot;&gt;MetroTwit&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jptoto (JP Toto)</name>
+      <uri>http://twitter.com/jptoto</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1012109534044160</id>
+    <published>2010-11-06T20:44:40Z</published>
+    <link type="text/html" href="http://twitter.com/jptoto/statuses/1012109534044160" rel="alternate"/>
+    <title>OH &quot;My wife keeps me around because I'm a super super useful appliance.&quot;</title>
+    <content type="html">OH &amp;quot;My wife keeps me around because I&amp;apos;m a super super useful appliance.&amp;quot;</content>
+    <updated>2010-11-06T20:44:40Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1158960374/bc_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.metrotwit.com/&quot; rel=&quot;nofollow&quot;&gt;MetroTwit&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jptoto (JP Toto)</name>
+      <uri>http://twitter.com/jptoto</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:1008905597485058</id>
+    <published>2010-11-06T20:31:56Z</published>
+    <link type="text/html" href="http://twitter.com/jptoto/statuses/1008905597485058" rel="alternate"/>
+    <title>Noob Mac question: If you use both spindles on a Macbook pro for a RAID setup, how do you install the OS? USB cdrom drive? Remote install?</title>
+    <content type="html">Noob Mac question: If you use both spindles on a Macbook pro for a RAID setup, how do you install the OS? USB cdrom drive? Remote install?</content>
+    <updated>2010-11-06T20:31:56Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1158960374/bc_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.metrotwit.com/&quot; rel=&quot;nofollow&quot;&gt;MetroTwit&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jptoto (JP Toto)</name>
+      <uri>http://twitter.com/jptoto</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:974135345811456</id>
+    <published>2010-11-06T18:13:46Z</published>
+    <link type="text/html" href="http://twitter.com/jesselamb/statuses/974135345811456" rel="alternate"/>
+    <title>@jptoto nice. We had a kaypro II and an apple II.</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/jptoto&quot;&gt;@&lt;b&gt;jptoto&lt;/b&gt;&lt;/a&gt; nice. We had a kaypro II and an apple II.</content>
+    <updated>2010-11-06T18:13:46Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/944211012/newavatar_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jesselamb (Jesse Lamb)</name>
+      <uri>http://twitter.com/jesselamb</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:899969871515648</id>
+    <published>2010-11-06T13:19:04Z</published>
+    <link type="text/html" href="http://twitter.com/jptoto/statuses/899969871515648" rel="alternate"/>
+    <title>Google seems to have dropped the &quot;My Contacts&quot; label from a bunch of my peeps and now they're missing from my phone :(</title>
+    <content type="html">Google seems to have dropped the &amp;quot;My Contacts&amp;quot; label from a bunch of my peeps and now they&amp;apos;re missing from my phone :(</content>
+    <updated>2010-11-06T13:19:04Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1158960374/bc_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.echofon.com/&quot; rel=&quot;nofollow&quot;&gt;Echofon&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jptoto (JP Toto)</name>
+      <uri>http://twitter.com/jptoto</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:898265574801409</id>
+    <published>2010-11-06T13:12:17Z</published>
+    <link type="text/html" href="http://twitter.com/jptoto/statuses/898265574801409" rel="alternate"/>
+    <title>Lots runners out in the city this morning making me feel like... I should be running.</title>
+    <content type="html">Lots runners out in the city this morning making me feel like... I should be running.</content>
+    <updated>2010-11-06T13:12:17Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1158960374/bc_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.echofon.com/&quot; rel=&quot;nofollow&quot;&gt;Echofon&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jptoto (JP Toto)</name>
+      <uri>http://twitter.com/jptoto</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:700130021875712</id>
+    <published>2010-11-06T00:04:58Z</published>
+    <link type="text/html" href="http://twitter.com/jptoto/statuses/700130021875712" rel="alternate"/>
+    <title>@apemberton Ha! Someone just sent that to me :-)</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/apemberton&quot;&gt;@apemberton&lt;/a&gt; Ha! Someone just sent that to me :-)</content>
+    <updated>2010-11-06T00:04:58Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1158960374/bc_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.echofon.com/&quot; rel=&quot;nofollow&quot;&gt;Echofon&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jptoto (JP Toto)</name>
+      <uri>http://twitter.com/jptoto</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:696948034117632</id>
+    <published>2010-11-05T23:52:20Z</published>
+    <link type="text/html" href="http://twitter.com/apemberton/statuses/696948034117632" rel="alternate"/>
+    <title>@jptoto you'll probably like http://bit.ly/95Qm0N if you're fighting w/iPhone autocorrect - just saw it for the first time</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/jptoto&quot;&gt;@&lt;b&gt;jptoto&lt;/b&gt;&lt;/a&gt; you&amp;apos;ll probably like &lt;a href=&quot;http://bit.ly/95Qm0N&quot;&gt;http://bit.ly/95Qm0N&lt;/a&gt; if you&amp;apos;re fighting w/iPhone autocorrect - just saw it for the first time</content>
+    <updated>2010-11-05T23:52:20Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/422846014/ap_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.nambu.com/&quot; rel=&quot;nofollow&quot;&gt;Nambu&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>apemberton (Andy Pemberton)</name>
+      <uri>http://twitter.com/apemberton</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:688194093842432</id>
+    <published>2010-11-05T23:17:32Z</published>
+    <link type="text/html" href="http://twitter.com/jptoto/statuses/688194093842432" rel="alternate"/>
+    <title>Let's have a talk, iPhone. Is it more likely I'm trying to abbreviate Kevin or kiloelectronvolt with &quot;kev&quot;. Most of us arent astrophysicists</title>
+    <content type="html">Let&amp;apos;s have a talk, iPhone. Is it more likely I&amp;apos;m trying to abbreviate Kevin or kiloelectronvolt with &amp;quot;kev&amp;quot;. Most of us arent astrophysicists</content>
+    <updated>2010-11-05T23:17:32Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1158960374/bc_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.echofon.com/&quot; rel=&quot;nofollow&quot;&gt;Echofon&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jptoto (JP Toto)</name>
+      <uri>http://twitter.com/jptoto</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:685440579403776</id>
+    <published>2010-11-05T23:06:36Z</published>
+    <link type="text/html" href="http://twitter.com/StoneRoseConshy/statuses/685440579403776" rel="alternate"/>
+    <title>#FF @TheLatestDish @FoodRulez @TimesHeraldPA @RunningInPink @eedawson @michellew_ @Chrissannthemum @jptoto http://twitter.com/#</title>
+    <content type="html">&lt;a href=&quot;http://search.twitter.com/search?q=%23FF&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#FF');&quot;&gt;#FF&lt;/a&gt; &lt;a href=&quot;http://twitter.com/TheLatestDish&quot;&gt;@TheLatestDish&lt;/a&gt; &lt;a href=&quot;http://twitter.com/FoodRulez&quot;&gt;@FoodRulez&lt;/a&gt; &lt;a href=&quot;http://twitter.com/TimesHeraldPA&quot;&gt;@TimesHeraldPA&lt;/a&gt; &lt;a href=&quot;http://twitter.com/RunningInPink&quot;&gt;@RunningInPink&lt;/a&gt; &lt;a href=&quot;http://twitter.com/eedawson&quot;&gt;@eedawson&lt;/a&gt; &lt;a href=&quot;http://twitter.com/michellew_&quot;&gt;@michellew_&lt;/a&gt; &lt;a href=&quot;http://twitter.com/Chrissannthemum&quot;&gt;@Chrissannthemum&lt;/a&gt; &lt;a href=&quot;http://twitter.com/jptoto&quot;&gt;@&lt;b&gt;jptoto&lt;/b&gt;&lt;/a&gt; &lt;a href=&quot;http://twitter.com/#&quot;&gt;http://twitter.com/#&lt;/a&gt;</content>
+    <updated>2010-11-05T23:06:36Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/518621832/StoneRose-Burger-300x225_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>StoneRoseConshy (StoneRose Restaurant)</name>
+      <uri>http://twitter.com/StoneRoseConshy</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:652504459120641</id>
+    <published>2010-11-05T20:55:43Z</published>
+    <link type="text/html" href="http://twitter.com/jptoto/statuses/652504459120641" rel="alternate"/>
+    <title>We need a name for when @scottgu tweets a site and the hits take it down. &quot;Gu'd&quot; or something.</title>
+    <content type="html">We need a name for when &lt;a href=&quot;http://twitter.com/scottgu&quot;&gt;@scottgu&lt;/a&gt; tweets a site and the hits take it down. &amp;quot;Gu&amp;apos;d&amp;quot; or something.</content>
+    <updated>2010-11-05T20:55:43Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1158960374/bc_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.metrotwit.com/&quot; rel=&quot;nofollow&quot;&gt;MetroTwit&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jptoto (JP Toto)</name>
+      <uri>http://twitter.com/jptoto</uri>
+    </author>
+  </entry>
+</feed>
