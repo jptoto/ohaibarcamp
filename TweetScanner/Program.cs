@@ -35,10 +35,9 @@ namespace TweetScanner
 
             foreach (SyndicationItem item in feed.Items)
             {
-                //Console.WriteLine("\t{0} - {1}", item.Authors[0].Name, item.Title.Text, item.Content.ToString());
                 Attendee attendee = new Attendee { Name = item.Authors[0].Name, TwitterURL = item.Authors[0].Uri, AvatarURL = item.Links[1].Uri.AbsoluteUri };
                 
-                // This whole situation here is cheese. C# arrays are annoying
+                // This whole situation here is cheese. C# arrays are annoying.
                 string tweet = item.Title.Text;
                 string[] tweetTags = tweet.Split(' ');
                 string[] userTags = new string[20];
@@ -54,7 +53,7 @@ namespace TweetScanner
 
                 attendee.Tags = userTags;
 
-                // Really should try and get upserts working. Stop sucking already!
+                // Really should try and get upserts working. Stop sucking already, Toto!
                 _repository.Remove(new { TwitterURL = attendee.TwitterURL });
                 _repository.Create(attendee);
             }

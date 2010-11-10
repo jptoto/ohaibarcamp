@@ -19,9 +19,13 @@ namespace WebUI.Controllers
 
         public ActionResult Index()
         {
+            HomeViewModel viewModel = new HomeViewModel();
+            
+            var allAttendees = _repository.FindAll();
 
+            viewModel.Attendees = allAttendees;
 
-            return View();
+            return View(viewModel);
         }
 
     }
