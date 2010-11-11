@@ -87,6 +87,7 @@
     <Content Include="Content\css\classic.css" />
     <Content Include="Content\css\default.css" />
     <Content Include="Content\css\images.css" />
+    <Content Include="Content\css\ohai.css" />
     <Content Include="Content\css\plugins.css" />
     <Content Include="Content\css\reset.css" />
     <Content Include="Content\css\style.css" />

@@ -15,5 +15,21 @@
 </asp:Content>
 
 <asp:Content ID="Content3" ContentPlaceHolderID="SideContent" runat="server">
-    nuthin yet
+    <div style="background-color:Gray; color:Black; padding:5px 5px 5px 5px;">
+        <% foreach (var tag in Model.Hashtags)
+           { %>
+            <% string fontclass = "smalltag";
+                   
+                if (tag.Value > 0 & tag.Value < 2)
+                    fontclass = "smalltag";                           
+               
+               if (tag.Value >= 2 & tag.Value <= 10)
+                    fontclass = "mediumtag";
+               
+               if (tag.Value > 10)
+                    fontclass = "largetag";      
+            %>
+            <span class="<%:fontclass%>"><%: tag.Key %>&nbsp;</span>
+        <%} %>
+    </div>
 </asp:Content>
