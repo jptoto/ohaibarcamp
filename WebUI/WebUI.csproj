@@ -115,6 +115,7 @@
     <Content Include="Global.asax" />
     <Content Include="Views\Home\Index.aspx" />
     <Content Include="Views\Home\User.aspx" />
+    <Content Include="Views\Home\UserList.ascx" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>

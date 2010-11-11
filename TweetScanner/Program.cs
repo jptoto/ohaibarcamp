@@ -30,7 +30,7 @@ namespace TweetScanner
             var input = "@barcampphilly #ohai";
             
             var scrubbed = HttpUtility.UrlEncode(input);
-            var reader = XmlReader.Create(string.Format("http://search.twitter.com/search.atom?lang=en&q={0}&page=1&rpp=10", scrubbed));
+            var reader = XmlReader.Create(string.Format("http://search.twitter.com/search.atom?&q={0}&rpp=100", scrubbed));
             var feed = SyndicationFeed.Load(reader);
 
             foreach (SyndicationItem item in feed.Items)

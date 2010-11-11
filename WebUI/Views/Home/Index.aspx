@@ -6,30 +6,28 @@
 
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
 
-	<% foreach (var attendee in Model.Attendees)
-    { %>
-         <a rel="facebox" href="<%: Url.Action("User", "Home", new { id = attendee.Id }) %>"><img src="<%: attendee.AvatarURL %>" /></a>
-
-    <% } %>
+    <div id="UserListing">
+        <% Html.RenderPartial("UserList", Model); %>
+    </div>
 
 </asp:Content>
 
 <asp:Content ID="Content3" ContentPlaceHolderID="SideContent" runat="server">
     <div style="background-color:Gray; color:Black; padding:5px 5px 5px 5px;">
-        <% foreach (var tag in Model.Hashtags)
-           { %>
-            <% string fontclass = "smalltag";
+    <% foreach (var tag in Model.Hashtags)
+        { %>
+        <% string fontclass = "smalltag";
                    
-                if (tag.Value > 0 & tag.Value < 2)
-                    fontclass = "smalltag";                           
+            if (tag.Value > 0 & tag.Value < 2)
+                fontclass = "smalltag";                           
                
-               if (tag.Value >= 2 & tag.Value <= 10)
-                    fontclass = "mediumtag";
+            if (tag.Value >= 2 & tag.Value <= 10)
+                fontclass = "mediumtag";
                
-               if (tag.Value > 10)
-                    fontclass = "largetag";      
-            %>
-            <span class="<%:fontclass%>"><%: tag.Key %>&nbsp;</span>
-        <%} %>
+            if (tag.Value > 10)
+                fontclass = "largetag";      
+        %>
+        <span class="<%:fontclass%>"><%: Ajax.ActionLink(tag.Key, "SelectUsers", new { hashTag = tag.Key }, new AjaxOptions { UpdateTargetId = "UserListing" })%>&nbsp;</span>
+    <%} %>
     </div>
 </asp:Content>

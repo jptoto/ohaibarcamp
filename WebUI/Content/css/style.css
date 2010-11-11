@@ -124,7 +124,7 @@ body {
 }
 #main {
 	width:1035px;
-	margin:10px 0 0 0;
+	margin:50px 0 0 0;
 	overflow:hidden;
 	position:relative;
 	background-color: #1d2f33;
@@ -136,7 +136,7 @@ body {
 }
 #content {
 	overflow:hidden;
-	width:700px;
+	width:740px;
 }
 #primary {
 	width:195px;

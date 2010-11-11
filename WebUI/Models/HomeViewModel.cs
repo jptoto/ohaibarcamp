@@ -7,7 +7,7 @@ namespace WebUI.Models
 {
     public class HomeViewModel
     {
-        public IQueryable<Attendee> Attendees { get; set; }
+        public IEnumerable<Attendee> Attendees { get; set; }
         public Dictionary<string, int> Hashtags { get; set; }
     }
 }
