@@ -16,7 +16,7 @@
 <asp:Content ID="Content3" ContentPlaceHolderID="SideContent" runat="server">
 
 	<div style="padding:5px 5px 5px 10px;">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/Content/images/cloud.png" /><br />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/"><img src="/Content/images/cloud.png" /></a><br />
 	<% foreach (var tag in Model.Hashtags)
 		{ %>
 		<% string fontclass = "smalltag";

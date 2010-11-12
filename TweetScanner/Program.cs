@@ -33,7 +33,8 @@ namespace TweetScanner
             var reader = XmlReader.Create(string.Format("http://search.twitter.com/search.atom?&q={0}&rpp=100", scrubbed));
             var feed = SyndicationFeed.Load(reader);
 
-            foreach (SyndicationItem item in feed.Items)
+            // Order these backwards so we allways do the newest feeds list since I suck at upserts
+            foreach (SyndicationItem item in feed.Items.OrderBy(x=>x.Id))
             {
                 Attendee attendee = new Attendee { Name = item.Authors[0].Name, TwitterURL = item.Authors[0].Uri, AvatarURL = item.Links[1].Uri.AbsoluteUri };
                 
@@ -58,6 +59,14 @@ namespace TweetScanner
                 _repository.Create(attendee);
             }
 
+        }
+    }
+
+    public class AttendeeCollection : System.Collections.CollectionBase
+    {
+        public void Add(Attendee attendee)
+        {
+            List.Add(attendee);
         }
     }
 }

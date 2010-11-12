@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <publishData>
   <publishProfile publishUrl="C:\deploy\ohai" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
-    <file relUrl="Views/Home/Index.aspx" publishTime="11/12/2010 13:20:15" />
+    <file relUrl="Views/Home/Index.aspx" publishTime="11/12/2010 15:00:51" />
     <file relUrl="Content/facebox/logo.png" publishTime="05/05/2008 12:38:34" />
     <file relUrl="Scripts/MicrosoftAjax.js" publishTime="11/09/2010 11:52:34" />
     <file relUrl="Global.asax" publishTime="11/09/2010 11:52:34" />
@@ -37,7 +37,7 @@
     <file relUrl="Scripts/jquery.validate.min.js" publishTime="11/09/2010 11:52:34" />
     <file relUrl="Content/css/classic.css" publishTime="11/09/2010 11:03:25" />
     <file relUrl="Content/css/18px.css" publishTime="11/09/2010 11:03:25" />
-    <file relUrl="Views/Shared/Site.Master" publishTime="11/12/2010 12:37:55" />
+    <file relUrl="Views/Shared/Site.Master" publishTime="11/12/2010 15:09:28" />
     <file relUrl="Content/facebox/stairs.jpg" publishTime="05/05/2008 12:38:34" />
     <file relUrl="Content/css/21px.css" publishTime="11/09/2010 11:03:25" />
     <file relUrl="Content/images/barcampphilly3.png" publishTime="11/09/2010 10:57:24" />
@@ -45,7 +45,7 @@
     <file relUrl="Content/facebox/facebox.css" publishTime="11/10/2010 18:22:12" />
     <file relUrl="Content/css/style.css" publishTime="11/12/2010 11:58:43" />
     <file relUrl="Content/facebox/test.html" publishTime="05/05/2008 12:38:34" />
-    <file relUrl="Content/images/cloud.png" publishTime="11/12/2010 13:19:03" />
+    <file relUrl="Content/images/cloud.png" publishTime="11/12/2010 15:00:13" />
     <file relUrl="Content/facebox/br.png" publishTime="05/05/2008 12:38:34" />
     <file relUrl="Content/css/images.css" publishTime="11/09/2010 11:03:26" />
     <file relUrl="Content/facebox/loading.gif" publishTime="05/05/2008 12:38:34" />

@@ -83,7 +83,7 @@
                                             <p>1. "check in" by @ing the @barcampphilly account like so: <br /><br /><strong>@barcampphilly #ohai #developer #designer #local #ruby #asp.net #education #technology</strong> </p>
                                             <p>(basically just mention the things you do, the things you're good at, or the things you like. Be sure and use a # in front of your tags, and make sure #ohai is immediately after the @barcampphilly) *** Your profile must be unprotected ***</p> 
                                             <p>2. Check out <a href="http://ohai.barcampphilly.org">http://ohai.barcampphilly.org</a> and you'll see yourself and all the other attendees who checked in!</p>
-                                            <p>3. Click on tags! To see folks who used the same tags, click them!</p>
+                                            <p>3. Click on tags! To find people with similar interests, do some tag-cloud hunting!</p>
                                             <p>4. Click on a user's avatar to see their details.</p>
 
 									</div>
@@ -111,7 +111,7 @@
 			  
 					</div><!-- #subsidiary -->
 						<div id="siteinfo">        
-							Design by <a href="http://www.timquirino.com/" target="blank">Superhuman Graphic Designer – Tim Quirino</a>    |    Shitty Code by <a class="wp-link" href="http://about.me/jptoto/" title="Smells funny" rel="generator">JP Toto</a>   |    <b>w</b>e<b>w</b>ork<b>i</b>n<b>p</b>hilly		
+							Design by <a href="http://www.timquirino.com/" target="blank">Superhuman Graphic Designer – Tim Quirino</a>    |    Shitty Code by <a class="wp-link" href="http://about.me/jptoto/" title="Smells funny" rel="generator">JP Toto</a>   |    Hosted by <a class="wp-link" href="http://www.cognisit.com/" title="Yay!" rel="generator">Cognis IT</a>   |    <b>w</b>e<b>w</b>ork<b>i</b>n<b>p</b>hilly		
 						</div><!-- #siteinfo -->
 					</div><!-- #footer -->
 
