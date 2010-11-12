@@ -273,7 +273,7 @@ a {
 }
 a:active,
 a:hover {
-	color: #90FEEF;
+	color: blue;
 }
 
 
@@ -910,7 +910,7 @@ li.content-column {
 }
 .aside a:active,
 .aside a:hover {
-	color: #90FEEF;
+	color: Orange;
 }
 .aside h3 {
 	font-size:15px;

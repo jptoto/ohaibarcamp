@@ -1,15 +1,24 @@
 ﻿.smalltag
 {
-    font-size:x-small;
+    font-size:small;
+    color:White; 
+    line-height:2; 
+    font-weight:bolder;
 }
 
 .mediumtag
 {
-    font-size:medium;
+    font-size:20px;
+    color:White; 
+    line-height:2; 
+    font-weight:bolder;
 }
 
 .largetag
 {
-    font-size:xx-large;
+    font-size:30px;
+    color:White; 
+    line-height:2; 
+    font-weight:bolder;
 }
 

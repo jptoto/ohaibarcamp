@@ -17,9 +17,12 @@
 
         <% foreach (var tag in Model.Tags)
            { %>
-                <% if (tag != null){
-                          Response.Write(tag.ToString()); 
-                      } %>&nbsp;
+                <% if (tag != null){ %>
+                <span style="background-color:Gray; padding:2px 0px 2px 0px; color:White; line-height:2; font-size:larger; font-weight:bold;">
+                       &nbsp;<%:tag.ToString()%>
+                </span>&nbsp;
+                      <% } %>
+                
         <%} %>
     
 </body>

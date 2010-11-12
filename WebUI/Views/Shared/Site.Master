@@ -16,11 +16,7 @@
 	<link rel="stylesheet" type="text/css" href="/Content/facebox/facebox.css" media="screen" />
 </head>
 <body class="wordpress y2010 m11 d09 h15 home blog not-singular windows firefox ff3">
-	<script type="text/javascript">
-		jQuery(document).ready(function ($) {
-			$('a[rel*=facebox]').facebox()
-		}) 
-	</script>
+
 	<div id="background"><img id="bgImage" src="/Content/images/bcp2010bg.jpg" width="100%" height="100%" alt=""/></div>
 		<div id="wrapper" class="hfeed">
 			<div id="header">
@@ -72,8 +68,8 @@
 									<p>With two successful conferences under our belt, BarCampPhilly is back!  Last year, over 300 people attended this day-long collaborative conference.</p> 
 									<p style="padding-left: 25px;"><a href="http://2009.barcampphilly.org/"><img src="http://barcampphilly.org/images/year_badge_2009.png" margin-right: 5px;" height="125px"/></a><a href="http://2008.barcampphilly.org/"><img src="http://barcampphilly.org/images/year_badge_2008.png"  height="125px"/></a></p>
                                     <p>&nbsp;</p> 
-<h1>Follow Us!</h1> 
-<p><a href="http://twitter.com/barcampphilly" target="_blank"><img src="http://2009.barcampphilly.org/images/Twitter_48x48.png" alt="twitter" /></a><a href="#" target="_blank"><img src="http://2009.barcampphilly.org/images/FaceBook_48x48.png" alt="facebook" /></a><a href="http://www.flickr.com/groups/barcampphilly/" target="_blank"><img src="http://2009.barcampphilly.org/images/Flickr_48x48.png" alt="flickr" /></a></p>
+                                    <h1>Follow Us!</h1> 
+                                    <p><a href="http://twitter.com/barcampphilly" target="_blank"><img src="http://2009.barcampphilly.org/images/Twitter_48x48.png" alt="twitter" /></a><a href="#" target="_blank"><img src="http://2009.barcampphilly.org/images/FaceBook_48x48.png" alt="facebook" /></a><a href="http://www.flickr.com/groups/barcampphilly/" target="_blank"><img src="http://2009.barcampphilly.org/images/Flickr_48x48.png" alt="flickr" /></a></p>
 							</li>
 						</ul>
 					</div><!-- #first .aside -->
@@ -85,7 +81,7 @@
 										<h1>Instruction Manual</h1>
 										    #Ohai is a small app built to collate the attendees of Barcamp Philly into one, easy to access grid of tag-cloudy awesomeness. The instrunctions are quite simple:<br /><br />
                                             <p>1. "check in" by @ing the @barcampphilly account like so: <br /><br /><strong>@barcampphilly #ohai #developer #designer #local #ruby #asp.net #education #technology</strong> </p>
-                                            <p>(basically just mention the things you do, the things you're good at, or the things you like. Be sure and use a # in front of your tags, and make sure #ohai is immediately after the @barcampphilly)</p>
+                                            <p>(basically just mention the things you do, the things you're good at, or the things you like. Be sure and use a # in front of your tags, and make sure #ohai is immediately after the @barcampphilly) *** Your profile must be unprotected ***</p> 
                                             <p>2. Check out <a href="http://ohai.barcampphilly.org">http://ohai.barcampphilly.org</a> and you'll see yourself and all the other attendees who checked in!</p>
                                             <p>3. Click on tags! To see folks who used the same tags, click them!</p>
                                             <p>4. Click on a user's avatar to see their details.</p>

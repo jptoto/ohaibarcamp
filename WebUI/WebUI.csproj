@@ -112,6 +112,8 @@
     <Content Include="Content\facebox\tr.png" />
     <Content Include="Content\images\barcampphilly3.png" />
     <Content Include="Content\images\bcp2010bg.jpg" />
+    <Content Include="Content\images\bg.png" />
+    <Content Include="Content\images\cloud.png" />
     <Content Include="Global.asax" />
     <Content Include="Views\Home\Index.aspx" />
     <Content Include="Views\Home\User.aspx" />
