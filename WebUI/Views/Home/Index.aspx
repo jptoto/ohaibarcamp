@@ -30,7 +30,10 @@
 			if (tag.Value > 10)
 				fontclass = "largetag";      
 		%>
+        <% if (tag.Key != null & tag.Key != "")
+           { %>
 		<span class="<%:fontclass%>"><%: Ajax.ActionLink(tag.Key, "SelectUsers", new { hashTag = tag.Key }, new AjaxOptions { UpdateTargetId = "UserListing" })%>&nbsp;</span>
+        <%} %>
 	<%} %>
 	</div>
 
