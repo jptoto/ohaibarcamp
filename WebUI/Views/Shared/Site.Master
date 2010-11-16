@@ -9,7 +9,6 @@
 	<meta name="description" content="November 13th, 2010  |  University of the Arts" />
 	<meta name="robots" content="index,follow" />
 	<script src="<%=Url.Content("~/Scripts/jquery-1.4.1.min.js")%>" type="text/javascript"></script>
-	<script src="<%=Url.Content("~/Scripts/jquery-ajax-queue_1.0.js")%>" type="text/javascript"></script>
 	<script src="<%=Url.Content("~/Scripts/MicrosoftAjax.js")%>" type="text/javascript"></script>
 	<script src="<%=Url.Content("~/Scripts/MicrosoftMvcAjax.js")%>" type="text/javascript"></script>
 	<script src="<%=Url.Content("~/Content/facebox/facebox.js")%>" type="text/javascript"></script>  
