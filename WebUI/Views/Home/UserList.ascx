@@ -2,6 +2,6 @@
      
 	<% foreach (var attendee in Model.Attendees)
     { %>
-      <a href="<%: attendee.TwitterURL %>" target="_blank"><img src="<%: attendee.AvatarURL %>" onmouseover="showUserDetails(this,'<%: attendee.Id %>')" onmouseout="hideUserDetails()" /></a>        
+      <a href="<%: attendee.TwitterURL %>" target="_blank"><img class='userImg' src="<%: attendee.AvatarURL %>" onmouseover="showUserDetails(this,'<%: attendee.Id %>')" /></a>        
      <% } %>
 

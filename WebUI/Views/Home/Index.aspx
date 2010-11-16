@@ -45,7 +45,10 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/"><img src="/Content/images/cloud.png" /></a><br />
 	<% foreach (var tag in Model.Hashtags)
 		{ %>
-		<% string fontclass = "smalltag";
+		<% 
+            string linkText = tag.Key;
+            string fontclass = "smalltag";
+        
 				   
 			if (tag.Value > 0 & tag.Value < 5)
 				fontclass = "smalltag";                           
@@ -54,9 +57,10 @@
 				fontclass = "mediumtag";
 			   
 			if (tag.Value > 10)
-				fontclass = "largetag";      
+				fontclass = "largetag";
+            if ((linkText == null) || (linkText == "")) { linkText = "null"; }
 		%>
-		<span class="<%:fontclass%>"><%: Ajax.ActionLink(tag.Key, "SelectUsers", new { hashTag = tag.Key }, new AjaxOptions { UpdateTargetId = "UserListing" })%>&nbsp;</span>
+		<span class="<%:fontclass%>"><%: Ajax.ActionLink(linkText, "SelectUsers", new { hashTag = tag.Key }, new AjaxOptions { UpdateTargetId = "UserListing" })%>&nbsp;</span>
 	<%} %>
 	</div>
 

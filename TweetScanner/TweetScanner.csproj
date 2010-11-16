@@ -51,7 +51,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestCertificateThumbprint>1FAD007E41D7C3BAD2844B3C3547B53FE01B4B47</ManifestCertificateThumbprint>
+    <ManifestCertificateThumbprint>2BFE1BB0808468435E7640024DF31EF4F7707B92</ManifestCertificateThumbprint>
   </PropertyGroup>
   <PropertyGroup>
     <ManifestKeyFile>TweetScanner_TemporaryKey.pfx</ManifestKeyFile>
