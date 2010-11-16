@@ -4,35 +4,35 @@
     <file relUrl="Views/Home/Index.aspx" publishTime="11/12/2010 15:00:51" />
     <file relUrl="Content/facebox/logo.png" publishTime="05/05/2008 12:38:34" />
     <file relUrl="Scripts/MicrosoftAjax.js" publishTime="11/09/2010 11:52:34" />
+    <file relUrl="Content/facebox/test.html" publishTime="05/05/2008 12:38:34" />
     <file relUrl="Global.asax" publishTime="11/09/2010 11:52:34" />
-    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="11/09/2010 11:52:34" />
     <file relUrl="Views/Home/User.aspx" publishTime="11/12/2010 11:53:22" />
     <file relUrl="Content/css/ohai.css" publishTime="11/12/2010 12:41:06" />
     <file relUrl="Content/facebox/closelabel.gif" publishTime="05/05/2008 12:38:34" />
+    <file relUrl="Web.config" publishTime="11/12/2010 09:51:16" />
     <file relUrl="Content/facebox/jquery.js" publishTime="05/05/2008 12:38:34" />
+    <file relUrl="Content/facebox/loading.gif" publishTime="05/05/2008 12:38:34" />
     <file relUrl="Scripts/MicrosoftMvcValidation.debug.js" publishTime="11/09/2010 11:52:34" />
     <file relUrl="bin/WebUI.dll" publishTime="11/12/2010 13:20:20" />
     <file relUrl="Content/css/plugins.css" publishTime="11/09/2010 11:03:26" />
     <file relUrl="Scripts/MicrosoftMvcAjax.debug.js" publishTime="11/09/2010 11:52:34" />
     <file relUrl="Content/facebox/README.txt" publishTime="05/05/2008 12:38:34" />
-    <file relUrl="Scripts/MicrosoftAjax.debug.js" publishTime="11/09/2010 11:52:34" />
     <file relUrl="Content/css/default.css" publishTime="11/09/2010 11:03:25" />
     <file relUrl="Content/facebox/bl.png" publishTime="05/05/2008 12:38:34" />
     <file relUrl="Content/facebox/b.png" publishTime="05/05/2008 12:38:34" />
     <file relUrl="Scripts/jquery.validate-vsdoc.js" publishTime="11/09/2010 11:52:34" />
-    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="11/09/2010 11:52:34" />
+    <file relUrl="Content/css/style.css" publishTime="11/12/2010 11:58:43" />
     <file relUrl="Content/facebox/index.html" publishTime="05/05/2008 12:38:34" />
     <file relUrl="bin/Norm.dll" publishTime="10/09/2010 20:01:11" />
     <file relUrl="Scripts/jquery.validate.js" publishTime="11/09/2010 11:52:34" />
     <file relUrl="Content/facebox/faceplant.css" publishTime="11/10/2010 17:35:59" />
     <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="11/09/2010 11:52:34" />
-    <file relUrl="Content/css/typography.css" publishTime="11/09/2010 11:03:26" />
     <file relUrl="bin/WebUI.pdb" publishTime="11/12/2010 13:20:20" />
     <file relUrl="Content/facebox/tl.png" publishTime="05/05/2008 12:38:34" />
-    <file relUrl="Content/facebox/facebox.js" publishTime="11/12/2010 10:40:59" />
+    <file relUrl="Scripts/MicrosoftMvcValidation.js" publishTime="11/09/2010 11:52:34" />
     <file relUrl="Content/css/reset.css" publishTime="11/09/2010 11:03:26" />
     <file relUrl="Views/Home/UserList.ascx" publishTime="11/12/2010 11:28:27" />
-    <file relUrl="Scripts/MicrosoftMvcAjax.js" publishTime="11/09/2010 11:52:34" />
+    <file relUrl="Content/css/typography.css" publishTime="11/09/2010 11:03:26" />
     <file relUrl="Content/images/bcp2010bg.jpg" publishTime="11/09/2010 10:58:09" />
     <file relUrl="Scripts/jquery.validate.min.js" publishTime="11/09/2010 11:52:34" />
     <file relUrl="Content/css/classic.css" publishTime="11/09/2010 11:03:25" />
@@ -43,17 +43,17 @@
     <file relUrl="Content/images/barcampphilly3.png" publishTime="11/09/2010 10:57:24" />
     <file relUrl="Content/facebox/tr.png" publishTime="05/05/2008 12:38:34" />
     <file relUrl="Content/facebox/facebox.css" publishTime="11/10/2010 18:22:12" />
-    <file relUrl="Content/css/style.css" publishTime="11/12/2010 11:58:43" />
-    <file relUrl="Content/facebox/test.html" publishTime="05/05/2008 12:38:34" />
+    <file relUrl="Content/facebox/facebox.js" publishTime="11/12/2010 10:40:59" />
+    <file relUrl="Scripts/MicrosoftMvcAjax.js" publishTime="11/09/2010 11:52:34" />
     <file relUrl="Content/images/cloud.png" publishTime="11/12/2010 15:00:13" />
     <file relUrl="Content/facebox/br.png" publishTime="05/05/2008 12:38:34" />
     <file relUrl="Content/css/images.css" publishTime="11/09/2010 11:03:26" />
-    <file relUrl="Content/facebox/loading.gif" publishTime="05/05/2008 12:38:34" />
-    <file relUrl="Scripts/MicrosoftMvcValidation.js" publishTime="11/09/2010 11:52:34" />
+    <file relUrl="Scripts/MicrosoftAjax.debug.js" publishTime="11/09/2010 11:52:34" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="11/09/2010 11:52:34" />
     <file relUrl="Content/facebox/shadow.gif" publishTime="05/05/2008 12:38:34" />
     <file relUrl="Content/facebox/remote.html" publishTime="05/05/2008 12:38:34" />
     <file relUrl="Views/Web.config" publishTime="11/09/2010 11:52:34" />
     <file relUrl="Content/images/bg.png" publishTime="11/12/2010 12:31:28" />
-    <file relUrl="Web.config" publishTime="11/12/2010 09:51:16" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="11/09/2010 11:52:34" />
   </publishProfile>
 </publishData>

@@ -6,10 +6,36 @@
 </asp:Content>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
-
-	<div id="UserListing">
+    <div id="UserListing">
 		<% Html.RenderPartial("UserList", Model); %>
 	</div>
+   
+
+
+    <div id="facebox" style="display:none;">
+      <div class="popup"> 
+        <table> 
+          <tbody> 
+            <tr> 
+              <td class="tl"/><td class="b"/><td class="tr"/> 
+            </tr> 
+            <tr> 
+              <td class="b"/> 
+              <td class="body"> 
+                <div id="UserDetails"></div>
+                <div class="footer"></div>
+              </td> 
+              <td class="b"/> 
+            </tr> 
+            <tr> 
+              <td class="bl"/><td class="b"/><td class="br"/> 
+            </tr> 
+          </tbody> 
+        </table> 
+      </div> 
+    </div>
+
+
 
 </asp:Content>
 
@@ -30,10 +56,7 @@
 			if (tag.Value > 10)
 				fontclass = "largetag";      
 		%>
-        <% if (tag.Key != null & tag.Key != "")
-           { %>
 		<span class="<%:fontclass%>"><%: Ajax.ActionLink(tag.Key, "SelectUsers", new { hashTag = tag.Key }, new AjaxOptions { UpdateTargetId = "UserListing" })%>&nbsp;</span>
-        <%} %>
 	<%} %>
 	</div>
 

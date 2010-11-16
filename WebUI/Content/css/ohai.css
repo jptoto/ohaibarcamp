@@ -22,3 +22,20 @@
     font-weight:bolder;
 }
 
+.tag
+{
+    background-color:Gray; 
+    padding:2px 0px 2px 0px; 
+    color:White; 
+    line-height:2; 
+    font-size:larger; 
+    font-weight:bold;
+}
+
+.userName
+{
+    font-size:20px;
+    color:Orange; 
+    line-height:2; 
+    font-weight:bolder;
+}

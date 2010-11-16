@@ -31,7 +31,7 @@
  *    jQuery.facebox('some html')
  *
  *  The above will open a facebox with "some html" as the content.
- *   
+ *    
  *    jQuery.facebox(function($) { 
  *      $.get('blah.html', function(data) { $.facebox(data) })
  *    })
