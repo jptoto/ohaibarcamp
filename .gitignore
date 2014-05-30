@@ -9,6 +9,7 @@ _ReSharper.*
 *.cache
 *~
 *.swp
+*.pfx
 /Build
 
  

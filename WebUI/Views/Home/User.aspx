@@ -7,23 +7,12 @@
     <title>User</title>
 </head>
 <body>
-    
-        <img src="<%: Model.AvatarURL %>" align="left" style="padding:0px 10px 0px 0px;" />
-    
-    
-        <a href="<%: Model.TwitterURL %>" target="_blank"><%:Model.TwitterURL %></a>
-
-        <br />
-
+        <div class="userName">@<%: Model.Name %></div>    
         <% foreach (var tag in Model.Tags)
            { %>
                 <% if (tag != null){ %>
-                <span style="background-color:Gray; padding:2px 0px 2px 0px; color:White; line-height:2; font-size:larger; font-weight:bold;">
-                       &nbsp;<%:tag.ToString()%>
-                </span>&nbsp;
+                <span class="tag">&nbsp;<%:tag.ToString()%></span>&nbsp;
                       <% } %>
-                
         <%} %>
-    
 </body>
 </html>

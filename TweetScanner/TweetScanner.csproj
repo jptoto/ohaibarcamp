@@ -51,7 +51,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestCertificateThumbprint>2C7B73638B020F2DCB3EAAA52FE71F7099780BFC</ManifestCertificateThumbprint>
+    <ManifestCertificateThumbprint>2BFE1BB0808468435E7640024DF31EF4F7707B92</ManifestCertificateThumbprint>
   </PropertyGroup>
   <PropertyGroup>
     <ManifestKeyFile>TweetScanner_TemporaryKey.pfx</ManifestKeyFile>
@@ -60,7 +60,7 @@
     <GenerateManifests>true</GenerateManifests>
   </PropertyGroup>
   <PropertyGroup>
-    <SignManifests>false</SignManifests>
+    <SignManifests>true</SignManifests>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Norm, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
@@ -82,6 +82,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
+    <None Include="TweetScanner_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\WebUI\WebUI.csproj">
